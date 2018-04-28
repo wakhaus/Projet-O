@@ -1,26 +1,22 @@
 /* ------------------------------------------ */
 /* TITLE */
 
-#banner{
+#title_zone{
+    display: inline-block;
+    width: 100%;
+    cursor: pointer;
     background-color: #0099cc;
     height: 250px;
     line-height: 250px;
 }
 
 #title{
-    display: inline-block;
     color: white;
-    width: 100%;
     text-align: center;
     line-height: 125px;
     font-weight: lighter;
     font-size: 40px;
     }
-
-.title{
-    cursor: pointer;
-}
-
 
 /* ------------------------------------------ */
 /* DROPDOWN MENUS */
@@ -33,7 +29,7 @@
 }
 
 .dropbtn {/* Buttons properties */
-    background-color: #464646; /* old color: 4CAF50 */
+    background-color: #464646;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -68,7 +64,7 @@
     }
 
 .dropdown:hover .dropbtn {
-    background-color: #646464; /* old color: 3e8e41 */
+    background-color: #646464;
     }
 
 
