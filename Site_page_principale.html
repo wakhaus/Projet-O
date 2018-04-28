@@ -47,47 +47,44 @@
 			</div>
 			<span style="display:inline-block; width:55%;"></span> <!-- Horizontal space -->
 		</span>
-	
-		<!-- CHECK BOX EVENTS -->
-		<div id=Graph>
+		<!--check box évènements-->
+		<span id=graphEvenement>
+      			<div class="graphEvent1">
 			<br>
-			<table>
-			  	<tr>
-					<td align='left'>
-						<input type="checkbox" name="evenement" id="temperatureCB" value="oktemperature" checked>Température
-						<a href="url source infoTempérature"> info </a>
-					<br><br>  <input type="checkbox" name="evenement" id="ouraganCB" value="okouragan">ouragan
-						<a href="url source infoOuragan"> info </a>
-					<br><br>  <input type="checkbox" name="evenement" id="Co2CB" value="okCo2">Co2 dans l'air
-						<a href="url source infoCo2"> info </a>
-					<br><br>  <input type="checkbox" name="evenement" id="surfaceGlaciaireCB" value="oksurfaceGlaciaire">Surface glaciaire
-						<a href="url source infoSurfaceGlaciaire"> info </a>
-					<br><br>  <input type="checkbox" name="evenement" id="volcanCB" value="okvolcan">volcan
-						<a href="url source infoVolcan"> info </a>
-					</td>
-					<td> <!--page graphique-->
-					<br>
-					<br>
-					<br>
-					<fieldset>
-						<legend>Graphique</legend>
-						<section id="Graphique"></section>
-					</fieldset>
-					</td>
-				</tr>
+				<input type="checkbox" name="evenement" id="temperatureCB" value="oktemperature" checked>Température
+				<a href="url source infoTempérature"> info </a>
+			</div><div class="graphEvent1">
+				<input type="checkbox" name="evenement" id="ouraganCB" value="okouragan">ouragan
+				<a href="url source infoOuragan"> info </a>
+			</div><div class="graphEvent1">
+				<input type="checkbox" name="evenement" id="Co2CB" value="okCo2">Co2 dans l'air
+				<a href="url source infoCo2"> info </a>
+			</div><div class="graphEvent1">
+				<input type="checkbox" name="evenement" id="surfaceGlaciaireCB" value="oksurfaceGlaciaire">Surface glaciaire
+				<a href="url source infoSurfaceGlaciaire"> info </a>
+			</div><div class="graphEvent1">
+				<input type="checkbox" name="evenement" id="volcanCB" value="okvolcan">volcan
+				<a href="url source infoVolcan"> info </a>
+			</div>
+		</span>
+		  <!--page graphique-->
+		<span id="graphEvenement2">
+			<fieldset>
+				<div Type='graphEvent2'>
+            				<legend>Graphique</legend>
+              				<section id="Graphique"></section>
+				</div>
+				<div class="graphEvent2">
+  					<input type="checkbox" name="ecartType" value="okEcartType">écart Type
+				</div>
+			</fieldset>
+		</span>
+	<script>
+            var size = 700;
+            d3.select('#Graphique').style('width', 250+size+'px').style('height', size+'px');
 
-				<tr>
-					<th></th>
-					<td align="center"><input type="checkbox" name="ecartType" value="okEcartType">écart Type</td>
-				</tr>
-			</table>
-		</div>
+        </script>
 
-		<script>
-				var size = 500;
-				d3.select('#Graphique').style('width', 200+size+'px').style('height', size+'px');
-	
-		</script>
 	
 	</body>
 	</html>
