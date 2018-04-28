@@ -25,6 +25,13 @@
 /* ------------------------------------------ */
 /* DROPDOWN MENUS */
 
+#list_bar{
+    display: inline-block;
+    width: 100%;
+    background-color: #464646;
+    height: 53px;
+}
+
 .dropbtn {/* Buttons properties */
     background-color: #464646; /* old color: 4CAF50 */
     color: white;
