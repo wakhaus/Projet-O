@@ -6,33 +6,40 @@
 		<title>Projet O</title>
 		<link rel="stylesheet" type="text/css" href="title.css">
 		<link rel="stylesheet" type="text/css" href="body.css">
-		<script type="text/javascript' src='title_homepage_redirecting.js"></script>
+		<script type="text/javascript" src="title_homepage_redirecting.js"></script>
 
 	</head>
 	<body>
 		<!-- TITLE -->
-        <div onmouseup="homepage_redirect()" id="banner">
+    <div class="title" onmouseup="homepage_redirect()" id="banner">
             <span id="title"><h1>Projet O</h1></span>
 		</div>
 
 		<!-- DROPDOWN MENUS -->
-		<div class="dropdown">
-				<button class="dropbtn">Menu</button>
-				<div class="dropdown-content">
-				  <a href="#">Introduction au site</a>
-				  <a href="#">Link 2</a>
-				  <a href="#">Link 3</a>
-				</div>
-		</div>
+		<span class="list_bar">
+			<span style="display:inline-block; width:40px;"></span>
 
-		<div class="dropdown">
+			<div class="dropdown">
+					<button class="dropbtn">Introduction au site</button>
+			</div>
+
+			<span style="display:inline-block; width:40px;"></span>
+			
+			<div class="dropdown">
 				<button class="dropbtn">Évènements climatiques</button>
 				<div class="dropdown-content">
-				  <a href="#">Link 1</a>
-				  <a href="#">Link 2</a>
-				  <a href="#">Link 3</a>
+					<a href="#">Variation de la température</a>
+					<a href="#">Ouragans</a>
+					<a href="#">Éruptions volcaniques</a>
 				</div>
-		</div>
+			</div>
+
+			<span style="display:inline-block; width:40px;"></span>
+
+			<div class="dropdown">
+				<button class="dropbtn">À propos de nous</button>
+			</div>
+		</span>
 		
 	</body>
 	</html>
