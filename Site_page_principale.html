@@ -7,6 +7,11 @@
 		<link rel="stylesheet" type="text/css" href="title.css">
 		<link rel="stylesheet" type="text/css" href="body.css">
 		<script type="text/javascript" src="title_homepage_redirecting.js"></script>
+		
+		<script src="https://d3js.org/d3.v4.min.js"></script>
+		<!-- fond du graphe -->
+		<style>#Graphique {background-color: grey;margin: 10px auto;}
+        	</style>
 
 	</head>
 	<body>
@@ -41,6 +46,46 @@
 			</div>
 			<span style="display:inline-block; width:55%;"></span>
 		</span>
-		
+				      <!--check box évènements-->
+      <div id=Graph>
+        <br>
+        <table>
+          <tr>
+            <td align='left'>
+                  <input type="checkbox" name="evenement" id="temperatureCB" value="oktemperature" checked>Température
+                  <a href="url source infoTempérature"> info </a>
+            <br><br>  <input type="checkbox" name="evenement" id="ouraganCB" value="okouragan">ouragan
+                  <a href="url source infoOuragan"> info </a>
+            <br><br>  <input type="checkbox" name="evenement" id="Co2CB" value="okCo2">Co2 dans l'air
+                  <a href="url source infoCo2"> info </a>
+            <br><br>  <input type="checkbox" name="evenement" id="surfaceGlaciaireCB" value="oksurfaceGlaciaire">Surface glaciaire
+                  <a href="url source infoSurfaceGlaciaire"> info </a>
+            <br><br>  <input type="checkbox" name="evenement" id="volcanCB" value="okvolcan">volcan
+                  <a href="url source infoVolcan"> info </a>
+          </td>
+          <!--page graphique-->
+          <td>
+              <br>
+              <br>
+              <br>
+              <fieldset>
+                  <legend>Graphique</legend>
+
+                  <section id="Graphique"></section>
+              </fieldset>
+          </td>
+        </tr>
+        <tr>
+          <th></th>
+          <td align='center'><input type="checkbox" name="ecartType" value="okEcartType">écart Type</td>
+        </tr>
+        </table>
+      </div>
+	<script>
+            var size = 500;
+            d3.select('#Graphique').style('width', 200+size+'px').style('height', size+'px');
+
+        </script>
+
 	</body>
 	</html>
