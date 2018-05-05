@@ -12,8 +12,9 @@
 		<link rel="stylesheet" type="text/css" href="body.css">	 <!-- Body properties -->
 		<link rel="stylesheet" type="text/css" href="Graphique/content_homepage.css"> <!-- mise en page graphe et checkbox -->
 		<script type="text/javascript" src="title_homepage_redirecting.js"></script>  <!-- Function to redirect to the homepage when clicking on the title -->
-		<script src="https://d3js.org/d3.v4.min.js"></script>
-		<style>#Graphique {background-color: grey;margin: 10px auto;}</style> <!-- fond du graphe -->
+ 
+		<!-- LOADING OF DATABASES -->
+		<!-- <script type="text/javascript" src="Graphique/loading_databases.js"></script> -->
 	</head>
 
 
@@ -79,7 +80,18 @@
 
 
 
-		  <!--GRAPHIC PAGE-->
+		<!--GRAPHIC PAGE-->
+		<script src="https://d3js.org/d3.v4.min.js"></script>
+		<style>	/* css du graphique */
+		#Graphique {
+			background-color: grey;margin: 10px auto;
+			}
+		.line {
+			fill: none;
+			stroke: steelblue;
+			stroke-width: 2px;
+			}
+		</style>
 		<span id="graphEvenement2">
 			<fieldset>
 				<div Type='graphEvent2'>
