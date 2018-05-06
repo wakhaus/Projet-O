@@ -19,29 +19,26 @@ if(count==1){                       /* Drawing one graph in absolute values */
     }
 
     if(id=='temperatureCB'){
-        var donnee= 'temp', /*j'ai besoin de cette donnee pour savoir ce que je dessine dans graphic_drawn (trend or else)*/
+        
           url = 'urltempérature'; /*à définir*/
         draw_graph(url);
 
     }else if(id=='ouraganCB'){
-        var donnee= 'ouragan',
           url = 'urldonnees'  /*à définir*/
         draw_graph(url);
 
     }else if (id=='Co2CB'){
         var url = "Donnees/co2/Data/co2-mm-mlo_json.json";
-        var donnee= 'co2'
-        draw_graph(url);
+        
+        draw_co2(url);
 
     }else if (id=='surfaceGlaciaireCB'){
-        var donnee= 'surfaceGl',
           url = 'urlsurfacegl'; /*à définir*/
         draw_graph(url);
 
     }else if (id=='volcanCB'){
-        var donnee= 'volcan'
-        var url = "Donnees/volcans/volcans.json"
-        draw_graph(url);
+        var url = ".../Donnees/volcans/volcans.json"
+        draw_volcan("Donnees/volcans/volcans.json");
     }
 
 
