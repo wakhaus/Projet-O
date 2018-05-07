@@ -1,4 +1,4 @@
-function draw_graph(url){
+function draw_co2(url){
     // set the dimensions and margins of the graph
     var margin = {top: 20, right: 20, bottom: 30, left: 50},
         width = 960 - margin.left - margin.right,
@@ -12,9 +12,15 @@ function draw_graph(url){
     var y = d3.scaleLinear().range([height, 0]);
 
     // define the line
-    var valueline = d3.line()
-        .x(function(d) { return x(d.Date);})
-        .y(function(d) { return y(d.Trend);});
+        
+          var valueline = d3.line()
+            .x(function(d) { return x(d.Date);})
+            .y(30)
+        
+        
+          var valueline = d3.line()
+            .x(function(d) { return x(d.Date);})
+            .y(function(d) { return y(d.Trend);});
 
     // append the svg obgect to the body of the page
     // appends a 'group' element to 'svg'
@@ -33,12 +39,11 @@ function draw_graph(url){
         data.forEach(function(d) {
             d.Date = parseTime(d.Date);
             d.Trend = +d.Trend;
+            console.log(d.Date)
         });
-
-
     // Scale the range of the data
     x.domain(d3.extent(data, function(d) { return d.Date; }));
-    y.domain([0, d3.max(data, function(d) { return d.Trend; })]);
+    y.domain([d3.min(data, function(d) { return d.Trend; }), d3.max(data, function(d) { return d.Trend; })]);
 
     // Add the valueline path.
     svg.append("path")
@@ -55,5 +60,28 @@ function draw_graph(url){
     svg.append("g")
         .call(d3.axisLeft(y));
 
-    });
+    })
+} /*fin de la fonction co2 */
+
+function draw_volcan(url){
+    d3.json(url, function(error, data) {
+        if(error) throw ('There was an error while getting geoData: '+error);
+    var i = 0   ;      // on initialise le compteur
+    var volcansAnnee =[0] //on prépare une array avec pour le donbre de volcan par année
+        while(i <57){ 
+
+            data.forEach(function(d) {
+            var Date = d.Date
+                if (Date == i +1960){ /*si l'année d'une donnée correspond a l'année i alors on ajoute 1 à l'année i*/ 
+                var volc = volcansAnnee[i]
+                console.log(Date)
+                volcansAnnee.splice(i,0,volc+1)
+                }
+            });
+
+        i++;
+
+        }
+    console.log(volcansAnnee[3])
+    })
 }

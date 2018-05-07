@@ -19,17 +19,26 @@ if(count==1){                       /* Drawing one graph in absolute values */
     }
 
     if(id=='temperatureCB'){
-        var url = "Donnees/co2/Data/co2-mm-mlo_json.json";
+        
+          url = 'urltempérature'; /*à définir*/
         draw_graph(url);
+
     }else if(id=='ouraganCB'){
+          url = 'urldonnees'  /*à définir*/
+        draw_graph(url);
 
     }else if (id=='Co2CB'){
+        var url = "Donnees/co2/Data/co2-mm-mlo_json.json";
+        
+        draw_co2(url);
 
     }else if (id=='surfaceGlaciaireCB'){
+          url = 'urlsurfacegl'; /*à définir*/
+        draw_graph(url);
 
     }else if (id=='volcanCB'){
-        var url = "Donnees/volcans/volcans.json"
-
+        var url = ".../Donnees/volcans/volcans.json"
+        draw_volcan("Donnees/volcans/volcans.json");
     }
 
 
@@ -39,20 +48,8 @@ if(count==1){                       /* Drawing one graph in absolute values */
 
 
 
-
-
-
-
-
-
-
-
-
-
 }else {                    /* Drawing two or more graphs in Standart-Deviation values*/
-    
-    
+
+
 
 }
-
-
