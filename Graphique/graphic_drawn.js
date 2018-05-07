@@ -1,9 +1,4 @@
 function draw_co2(url){
-    // set the dimensions and margins of the graph
-    var margin = {top: 20, right: 20, bottom: 30, left: 50},
-        width = 960 - margin.left - margin.right,
-        height = 500 - margin.top - margin.bottom;
-
     // parse the date / time
     var parseTime = d3.timeParse("%Y-%m-%d");
 
@@ -39,7 +34,6 @@ function draw_co2(url){
         data.forEach(function(d) {
             d.Date = parseTime(d.Date);
             d.Trend = +d.Trend;
-            console.log(d.Date)
         });
     // Scale the range of the data
     x.domain(d3.extent(data, function(d) { return d.Date; }));

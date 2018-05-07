@@ -28,7 +28,6 @@ function graphic_choose(){
 
         }else if (id=='Co2CB'){
             var url = "Donnees/co2/Data/co2-mm-mlo_json.json";
-            
             draw_co2(url);
 
         }else if (id=='surfaceGlaciaireCB'){
