@@ -71,20 +71,10 @@ function draw_volcan(url){
     d3.json(url, function(error, data) {
         if(error) throw ('There was an error while getting geoData: '+error);
     var i = 0   ;      // on initialise le compteur
-    var volcansAnnee =[0] //on prépare une array avec pour le donbre de volcan par année
-        while(i <57){ 
-
+    var volcans_incidence_annee = new Array(59).fill(0) //on prépare une array avec pour le nombre d'éruptions de volcan par année
             data.forEach(function(d) {
-            var Date = d.Date
-                if (Date == i +1960){ /*si l'année d'une donnée correspond a l'année i alors on ajoute 1 à l'année i*/ 
-                var volc = volcansAnnee[i]
-                console.log(Date)
-                volcansAnnee.splice(i,0,volc+1)
-                }
+            var single_date_index = d.Date-1960     //année-1960 = index où il faudra ajouter 1 pour l'occurence de l'année
+            volcans_incidence_annee[single_date_index] += 1 //ajoute 1 d'occurance à l'année souhaitée
             });
-
-        i++;
-
-        }
-    })
+    });
 }

@@ -36,19 +36,14 @@ function graphic_choose(){
             draw_graph(url);
 
         }else if (id=='volcanCB'){
-            var url = ".../Donnees/volcans/volcans.json"
-            draw_volcan("Donnees/volcans/volcans.json");
+            var url = "Donnees/volcans/volcans.json"
+            draw_volcan(url);
         }
 
 
 
-
-
-
-
-
     }else {                    /* Drawing two or more graphs in Standart-Deviation values*/
-
+        //transformation en écart-type
 
 
     }
