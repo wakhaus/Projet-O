@@ -73,8 +73,8 @@ function draw_volcan(url){
     var i = 0   ;      // on initialise le compteur
     var volcans_incidence_annee = new Array(59).fill(0) //on prépare une array avec pour le nombre d'éruptions de volcan par année
             data.forEach(function(d) {
-            var single_date_index = d.Date-1960     //année-1960 = index où il faudra ajouter 1 pour l'occurence de l'année
-            volcans_incidence_annee[single_date_index] += 1 //ajoute 1 d'occurance à l'année souhaitée
-            });
+                var single_date_index = d.Date-1960     //année-1960 = index où il faudra ajouter 1 pour l'occurence de l'année
+                volcans_incidence_annee[single_date_index] += 1 //ajoute 1 d'occurance à l'année souhaitée
+                });
     });
 }
