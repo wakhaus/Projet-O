@@ -8,7 +8,9 @@ function graphic_choose(){
         }
     }
 
-    if(count!==0, count==1){                       /* Drawing one graph in absolute values */
+    if(count==0){
+        d3.select("svg").remove() //remove all graphs
+    }else if(count==1){                       /* Drawing one graph in absolute values */
         for(i in x){
             var test = x[i].checked;
             if(test == true){
@@ -18,7 +20,6 @@ function graphic_choose(){
         }
 
         if(id=='temperatureCB'){
-            
             url = 'urltempérature'; /*à définir*/
             draw_graph(url);
 

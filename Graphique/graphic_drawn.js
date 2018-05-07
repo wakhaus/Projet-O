@@ -1,4 +1,10 @@
+// CO2 FUNCTION
 function draw_co2(url){
+    d3.select("svg").remove() //remove the old graph
+    // set the dimensions and margins of the graph
+    var margin = {top: 20, right: 20, bottom: 30, left: 50},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
     // parse the date / time
     var parseTime = d3.timeParse("%Y-%m-%d");
 
@@ -55,9 +61,13 @@ function draw_co2(url){
         .call(d3.axisLeft(y));
 
     })
+    
 } /*fin de la fonction co2 */
 
+
+//VOLCAN FUNCTION
 function draw_volcan(url){
+    d3.select("svg").remove() // remove the old graph
     d3.json(url, function(error, data) {
         if(error) throw ('There was an error while getting geoData: '+error);
     var i = 0   ;      // on initialise le compteur
@@ -76,6 +86,5 @@ function draw_volcan(url){
         i++;
 
         }
-    console.log(volcansAnnee[3])
     })
 }
