@@ -20,8 +20,8 @@ function graphic_choose(){
         }
 
         if(id=='temperatureCB'){
-            url = 'urltempérature'; /*à définir*/
-            draw_graph(url);
+            url = "Donnees/temperatures/temperatures.json"; /*à définir*/
+            draw_temperatures(url);
 
         }else if(id=='ouraganCB'){
             url = 'urldonnees'  /*à définir*/
@@ -43,14 +43,20 @@ function graphic_choose(){
 
 
     }else {                    /* Drawing two or more graphs in Standart-Deviation values*/
-        //transformation en écart-type
+        var id_list = [];
+        for(i in x){           //this for-loop gives an array with the ids of all the checkboxes that are checked
+            var test = x[i].checked;
+            if(test == true){
+                id_list.push(x[i].id);
+            };
+        };
 
+        SD_transformation(id_list);    // transformation in SD-values of the checked checkboxes
+
+
+        
 
     }
-
-
-
-
 
 
 }
