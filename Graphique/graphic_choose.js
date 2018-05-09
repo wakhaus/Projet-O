@@ -7,7 +7,6 @@ function graphic_choose(){
             var count = count + 1;
         }
     }
-
     if(count==0){
         d3.select("svg").remove() //remove all graphs
     }else if(count==1){                       /* Drawing one graph in absolute values */

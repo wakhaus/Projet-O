@@ -106,7 +106,7 @@ function draw_volcan(url){
  // append the svg obgect to the body of the page
     // appends a 'group' element to 'svg'
     // moves the 'group' element to the top left margin
-    var svg = d3.select("body").append("svg")
+    var svg = d3.select("#graph_draw").append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
@@ -128,12 +128,8 @@ function draw_volcan(url){
                 var single_date_index = d.Date-1960     //année-1960 = index où il faudra ajouter 1 pour l'occurence de l'année
                 volcans_incidence_annee[single_date_index] += 1 //ajoute 1 d'occurance à l'année souhaitée
                 })
-        volcans_incidence_annee.forEach(function(d){
-        
-        });
 
     svg.append("g").attr("d", line(+volcans_incidence_annee));
-    console.log(volcans_incidence_annee)
     });
 
 }

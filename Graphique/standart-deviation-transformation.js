@@ -16,9 +16,8 @@ function SD_transformation(list_id){
                         absolute_list.push(Number(d.Trend))
                     });
             });
-            var SD_Trend = SD_calculation(absolute_list)    //on transforme la liste en valeurs d'écart-type
+            draw_SD_co2(SD_calculation(absolute_list));    //on transforme la liste en valeurs d'écart-type, puis on dessine tout ça grâce au fichier 'SD-graphic-drawn.js'
             
-
         }else if (list_id[i]=='surfaceGlaciaireCB'){
             
 
@@ -39,9 +38,15 @@ function SD_calculation(absolute_list){
     var moy = sum/length;
     var dist = 0;
     for(i in absolute_list){
-        dist += (absolute_list[i] - moy)^2;
+        dist += Math.pow(absolute_list[i] - moy, 2);
+        console.log(dist)
     };
     var SD = Math.sqrt(dist/(length-1));
     // transformation of the absolute_values in SD_values
-
+    var SD_trend_list = [];
+    for(i in absolute_list){
+        SD_trend_list.push((absolute_list[i]-moy)/SD);
+    };
+    console.log(SD_trend_list)
+    return SD_trend_list;
 };
