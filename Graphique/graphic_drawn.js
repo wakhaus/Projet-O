@@ -14,6 +14,13 @@ function draw_co2(url){
     d3.json(url, function(error, data) {
         if(error) throw ('There was an error while getting geoData: '+error);
 
+    // format the data
+    data.forEach(function(d) {
+            d.Date = parseTime(d.Date);
+            d.Trend = +d.Trend;
+        });
+
+  
     // set the ranges // Scale the range of the data
     
     var x = d3.scaleTime().domain(d3.extent(data, function(d) { return d.Date; })).range([0, width]);
@@ -21,11 +28,6 @@ function draw_co2(url){
         return d.Trend; }), d3.max(data, function(d) { return d.Trend; })])
             .range([height, 0]);
 
-        // format the data
-        data.forEach(function(d) {
-            d.Date = parseTime(d.Date);
-            d.Trend = +d.Trend;
-        });
 
     // define the line
     var valueline = d3.line()
