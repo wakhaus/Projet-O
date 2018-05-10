@@ -1,7 +1,7 @@
 function graphic_choose(){
     var x = document.getElementsByClassName('checkbox');
     var count = 0
-    for(i=0; i < x.length; i++){ 
+    for(i=0; i < x.length; i++){
         var test = x[i].checked;
         if(test == true){
             var count = count + 1;
@@ -33,6 +33,10 @@ function graphic_choose(){
         }else if (id=='volcanCB'){
             var url = "Donnees/volcans/volcans.json"
             draw_volcan(url);
+
+        }else if (id=='tsunamisCB'){
+            var url = "Donnees/tsunamis/tsunamis.json"
+            draw_tsunamis(url);
         }
 
 
@@ -49,7 +53,7 @@ function graphic_choose(){
         SD_transformation(id_list);    // transformation in SD-values of the checked checkboxes
 
 
-        
+
 
     }
 
