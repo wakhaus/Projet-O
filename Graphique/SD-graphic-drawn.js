@@ -1,6 +1,5 @@
 // DRAW CO2 SD
 function draw_SD_co2(SD_trend_list){
-    //console.log(SD_trend_list)
     d3.select("svg").remove() //remove the old graph
         // set the dimensions and margins of the graph
         var margin = {top: 20, right: 20, bottom: 30, left: 50},
