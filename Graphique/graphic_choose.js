@@ -30,10 +30,6 @@ function graphic_choose(){
             var url = "Donnees/co2/Data/co2-mm-mlo_json.json";
             draw_co2(url);
 
-        }else if (id=='surfaceGlaciaireCB'){
-            url = 'urlsurfacegl'; /*à définir*/
-            draw_graph(url);
-
         }else if (id=='volcanCB'){
             var url = "Donnees/volcans/volcans.json"
             draw_volcan(url);
