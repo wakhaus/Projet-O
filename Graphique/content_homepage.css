@@ -7,7 +7,7 @@
     padding-left: 10%;
     padding-right: 3%;
     margin-top:5%;
-    margin-bottom: 40%;
+    margin-bottom: 10%;
     }
 
 #graphEvenement2{
@@ -16,4 +16,9 @@
   }
   .graphEvent2{
     vertical-align:bottom;
+    float: right;
   }
+
+.graphiquetout{
+  float: left;
+}

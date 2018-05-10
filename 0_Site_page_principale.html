@@ -23,7 +23,7 @@
 		</span>
 
 
-		
+
 		<!-- DROPDOWN MENUS -->
 		<span id="list_bar">
 			<span style="display:inline-block; width:3%;"></span> <!-- Horizontal space -->
@@ -44,7 +44,7 @@
 					<a href="Pages-secondaires/variations_CO.html">Variations du taux de CO<sub>2</sub></a>
 				</div>
 			</div>
-			
+
 			<span style="display:inline-block; width:3%;"></span> <!-- Horizontal space -->
 
 			<div class="dropdown"> <!-- Button: 'À propos de nous' -->
@@ -54,6 +54,7 @@
 		</span>
 
 		<!--GRAPHIC PAGE-->
+				<div class="graphiquetout">
 		<script src="https://d3js.org/d3.v4.min.js"></script>
 		<style>	/* css du graphique */
 		#Graphique {
@@ -81,32 +82,28 @@
 		<script type="text/javascript" src="Graphique/graphic_drawn.js"></script>  <!-- drawing of graphics (live script) -->
 		<script type="text/javascript" src="Graphique/standart-deviation-transformation.js"></script> <!-- transformation of the absolute values in standar-deviation values -->
 		<script type="text/javascript" src="Graphique/SD-graphic-drawn.js"></script> <!-- drawing of SD-graphs-->
-
+</div>
 		<!--CHECK BOX EVENTS-->
 		<span id=graphEvenement>
       			<div class="graphEvent1">
 			<br>
 				<input type="checkbox" class="checkbox" id="temperatureCB" onclick="graphic_choose()" checked>Température
-				<a href="url source infoTempérature"> info </a>
 			</div><div class="graphEvent1">
-				<input type="checkbox" class="checkbox" id="ouraganCB" onclick="graphic_choose()">ouragan
-				<a href="url source infoOuragan"> info </a>
+				<input type="checkbox" class="checkbox" id="ouraganCB" onclick="graphic_choose()">Ouragans
 			</div><div class="graphEvent1">
-				<input type="checkbox" class="checkbox" id="Co2CB" onclick="graphic_choose()">Co2 dans l'air
-				<a href="url source infoCo2"> info </a>
+				<input type="checkbox" class="checkbox" id="Co2CB" onclick="graphic_choose()">Co<sub>2</sub> dans l'air
 			</div><div class="graphEvent1">
-				<input type="checkbox" class="checkbox" id="volcanCB" onclick="graphic_choose()">volcan
-				<a href="url source infoVolcan"> info </a>
+				<input type="checkbox" class="checkbox" id="volcanCB" onclick="graphic_choose()">Volcans
 			</div>
 		</span>
 
 		<!-- DRAW FIRST GRAPH WHEN OPENING THE PAGE-->
 		<script type="text/javascript">
-			graphic_choose()		
+			graphic_choose()
 		</script>
 
 
-		
+
 
 		</body>
 	</html>
