@@ -17,10 +17,12 @@ function draw_co2(url){
             });
     
         // set the ranges // Scale the range of the data
-        var x = d3.scaleTime().domain(d3.extent(data, function(d) { return d.Date; })).range([0, width]);
-        var y = d3.scaleLinear().domain([d3.min(data, function(d) {
-            return d.Trend; }), d3.max(data, function(d) { return d.Trend; })])
-                .range([height, 0]);
+        var x = d3.scaleTime()
+            .domain(d3.extent(data, function(d) { return d.Date; }))
+            .range([0, width]);
+        var y = d3.scaleLinear()
+            .domain([d3.min(data, function(d) { return d.Trend; }), d3.max(data, function(d) { return d.Trend; })])
+            .range([height, 0]);
 
         // define the line
         var valueline = d3.line()
@@ -73,78 +75,42 @@ function draw_volcan(url){
     var margin = {top: 20, right: 20, bottom: 30, left: 50},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
-    // parse the date / time
 
     d3.json(url, function(error, data) { //chargement des data volcans
         if(error) throw ('There was an error while getting geoData: '+error);
         //get in an array the occurance of eruptions
-        var volcans_incidence_annee = new Array(59).fill(0) // on prépare une array avec pour le nombre d'éruptions de volcan par année
+        var volcans_incidence_annee_2018 = new Array(59).fill(0) // on prépare une array avec pour le nombre d'éruptions de volcan par année
         data.forEach(function(d) {
             var single_date_index = d.Date-1960     //année-1960 = index où il faudra ajouter 1 pour l'occurence de l'année
-            volcans_incidence_annee[single_date_index] += 1 //ajoute 1 d'occurance à l'année souhaitée
+            volcans_incidence_annee_2018[single_date_index] += 1 //ajoute 1 d'occurance à l'année souhaitée
             });
-        //travel the array one-by-one
-        volcans_incidence_annee.forEach(function(i){
-            return i
-        });
+        var volcans_incidence_annee = new Array(56).fill(0)
+
+        for(i in volcans_incidence_annee_2018){ //créé un array volcans_incidence_annee qui contient les données de 1960 à 2015 uniquement
+            if(i<56){
+                volcans_incidence_annee[i] = volcans_incidence_annee_2018[i]
+            };
+        };
+
+        var year_array = []
+        for(var i = 1960; i<=2015; i++) {year_array.push(i);} //créé un array avec chaque année
+
+        //create array with all the points
+        var xy=[];
+        for(var i = 0; i < year_array.length; i++ ) {
+            xy.push({x: year_array[i], y: volcans_incidence_annee[i]});
+        };
 
         // set the ranges
-
-
-
-
-
-
-
-        // ****************FORMAT **********************************
         var x = d3.scaleLinear().domain([1960, 2015]).range([0, width]);
-        //var y = d3.scaleLinear().domain([3,100]).range([height, 0]);  -> old code
-        // have to change the min() by the real function
-        var y = d3.scaleLinear().domain(Math.min(...volcans_incidence_annee), Math.max(...volcans_incidence_annee)).range([height, 0]);
-        //*********************************************************
-
-
-
-
-
-
-
+        var y = d3.scaleLinear().domain([Math.min(...volcans_incidence_annee), Math.max(...volcans_incidence_annee)]).range([height, 0]);
 
         // create a line function that can convert data[] into x and y points
-        var line = d3.line()
+        var valueline = d3.line()
+            .x(function(d) { return x(d.x);})
+            .y(function(d) { return y(d.y);});
+
         
-        // assign the X function to plot our line as we wish
-
-
-
-
-
-
-
-
-
-
-        //****************************************************************
-        .x(function(d) {return x(d.Date); 
-        })
-        .y(function(i) { // return the Y coordinate where we want to plot this datapoint
-            return y(i); 
-        })
-        //****************************************************************
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         // append the svg obgect to the body of the page
         // appends a 'group' element to 'svg'
         // moves the 'group' element to the top left margin
@@ -155,6 +121,12 @@ function draw_volcan(url){
             .attr("transform",
                 "translate(" + margin.left + "," + margin.top + ")");
 
+        // Add the valueline path.
+        svg.append("path")
+            .data([data])
+            .attr("class", "line")
+            .attr("d", valueline(xy));
+
         // Add the X Axis
         svg.append("g")
             .attr("transform", "translate(0," + height + ")")
@@ -163,7 +135,7 @@ function draw_volcan(url){
         // Add the Y Axis
         svg.append("g")
             .call(d3.axisLeft(y));
-        svg.append("g").attr("d", line(+volcans_incidence_annee));
+        //svg.append("g").attr("d", line(+volcans_incidence_annee));
     });
 
 }
