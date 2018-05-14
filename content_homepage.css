@@ -1,0 +1,24 @@
+#Graphique {background-color: black;margin: 10px auto;}
+#graphEvenement{
+  float: left;
+}
+  .graphEvent1{
+    vertical-align: middle;
+    padding-left: 10%;
+    padding-right: 3%;
+    margin-top:5%;
+    margin-bottom: 10%;
+    }
+
+#graphEvenement2{
+    float: middle;
+    align-items: center;
+  }
+  .graphEvent2{
+    vertical-align:bottom;
+    float: right;
+  }
+
+.graphiquetout{
+  float: left;
+}
