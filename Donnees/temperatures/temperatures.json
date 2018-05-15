@@ -1,186 +1,226 @@
 [
   {
+    "year": 1960,
+    "temperature": -0.049
+  },
+  {
+    "year": 1961,
+    "temperature": 0.038
+  },
+  {
+    "year": 1962,
+    "temperature": 0.014
+  },
+  {
+    "year": 1963,
+    "temperature": 0.048
+  },
+  {
+    "year": 1964,
+    "temperature": -0.223
+  },
+  {
+    "year": 1965,
+    "temperature":  -0.140
+  },
+  {
+    "year": 1966,
+    "temperature":  -0.068
+  },
+  {
+    "year": 1967,
+    "temperature":  -0.074
+  },
+  {
+    "year": 1968,
+    "temperature": -0.113
+  },
+  {
+    "year": 1969,
+    "temperature": 0.032
+  },
+  {
     "year": 1970,
-    "temperature": -0.299277027
+    "temperature": -0.027
   },
   {
     "year": 1971,
-    "temperature": 0.564122973
+    "temperature": -0.186
   },
   {
     "year": 1972,
-    "temperature": 1.020572973
+    "temperature": -0.065
   },
   {
     "year": 1973,
-    "temperature": -0.251727027
+    "temperature": 0.062
   },
   {
     "year": 1974,
-    "temperature": -0.090477027
+    "temperature": -0.214
   },
   {
     "year": 1975,
-    "temperature":  -0.198177027
+    "temperature":  -0.149
   },
   {
     "year": 1976,
-    "temperature":  0.554372973
+    "temperature":  -0.241
   },
   {
     "year": 1977,
-    "temperature":  -0.427527027
+    "temperature":  0.047
   },
   {
     "year": 1978,
-    "temperature": -0.090477027
+    "temperature": -0.062
   },
   {
     "year": 1979,
-    "temperature": -0.299277027
+    "temperature": 0.057
   },
   {
     "year": 1980,
-    "temperature": 0.564122973
+    "temperature": 0.092
   },
   {
     "year": 1981,
-    "temperature": 1.020572973
+    "temperature": 0.14
   },
   {
     "year": 1982,
-    "temperature": -0.251727027
+    "temperature": 0.011
   },
   {
     "year": 1983,
-    "temperature": -0.090477027
+    "temperature": 0.194
   },
   {
     "year": 1984,
-    "temperature": -0.140427027
+    "temperature": -0.014
   },
   {
     "year": 1985,
-    "temperature": -0.198177027
+    "temperature": -0.03
   },
   {
     "year": 1986,
-    "temperature": 1.072172973
+    "temperature": 0.045
   },
   {
     "year": 1987,
-    "temperature": 1.259372973
+    "temperature": 0.192
   },
   {
     "year": 1988,
-    "temperature": 0.711272973
+    "temperature": 0.198
   },
   {
     "year": 1989,
-    "temperature": 0.391022973
+    "temperature": 0.118
   },
   {
     "year": 1990,
-    "temperature": 1.399922973
+    "temperature": 0.296
   },
   {
     "year": 1991,
-    "temperature": 1.107422973
+    "temperature": 0.254
   },
   {
     "year": 1992,
-    "temperature": 0.554372973
+    "temperature": 0.105
   },
   {
     "year": 1993,
-    "temperature": -0.427527027
+    "temperature": 0.148
   },
   {
     "year": 1994,
-    "temperature": 1.100222973
+    "temperature": 0.208
   },
   {
     "year": 1995,
-    "temperature": 0.837572973
+    "temperature": 0.325
   },
   {
     "year": 1996,
-    "temperature": 0.319172973
+    "temperature": 0.183
   },
   {
     "year": 1997,
-    "temperature": 0.417572973
+    "temperature": 0.39
   },
   {
     "year": 1998,
-    "temperature": 1.868672973
+    "temperature": 0.539
   },
   {
     "year": 1999,
-    "temperature": 1.869422973
+    "temperature": 0.306
   },
   {
     "year": 2000,
-    "temperature": 1.395572973
+    "temperature": 0.294
   },
   {
     "year": 2001,
-    "temperature": 1.414322973
+    "temperature": 0.441
   },
   {
     "year": 2002,
-    "temperature": 0.941372973
+    "temperature": 0.496
   },
   {
     "year": 2003,
-    "temperature": 1.323272973
+    "temperature": 0.505
   },
   {
     "year": 2004,
-    "temperature": 0.829022973
+    "temperature": 0.447
   },
   {
     "year": 2005,
-    "temperature": 1.394072973
+    "temperature": 0.545
   },
   {
     "year": 2006,
-    "temperature": 1.528622973
+    "temperature": 0.506
   },
   {
     "year": 2007,
-    "temperature": 1.638272973
+    "temperature": 0.491
   },
   {
     "year": 2008,
-    "temperature": 0.259772973
+    "temperature": 0.395
   },
   {
     "year": 2009,
-    "temperature": 0.415172973
+    "temperature": 0.506
   },
   {
     "year": 2010,
-    "temperature": 0.828572973
+    "temperature": 0.56
   },
   {
     "year": 2011,
-    "temperature": 0.946472973
+    "temperature": 0.425
   },
   {
     "year": 2012,
-    "temperature": 2.375522973
+    "temperature": 0.47
   },
   {
     "year": 2013,
-    "temperature": 0.334472973
+    "temperature": 0.514
   },
   {
     "year": 2014,
-    "temperature": 0.333122973
+    "temperature": 0.579
   },
   {
     "year": 2015,
-    "temperature": 2.057072973
+    "temperature": 0.763
   }
 ]

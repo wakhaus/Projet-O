@@ -1,0 +1,110 @@
+.between_parts{
+    display: block;
+    width: 100%;
+    padding-top:100px;
+    background-size: cover;
+    font-size: 0px;
+}
+
+.image_2{
+    position: absolute;
+    height: 1000px;
+    max-height: 85vh;
+    width: 100%;
+    z-index: 1;
+}
+
+.image{
+    position: absolute;
+    height: 1000px;
+    max-height: 85vh;
+    width: 100%;
+    z-index: 1;
+}
+
+#part_one{
+    position: relative;
+    height: 1000px;
+    max-height: 85vh;
+    width: 100%;
+    display: inline-block;
+}
+
+#part_one_text{
+    display: inline-block;
+    text-align: center;
+    left: 30%;
+    right: 30%;
+    margin-top: 25vh;
+    position: absolute;
+    z-index: 2;
+
+    font-size: 30px;
+    font-style: italic;
+    color: wheat;
+}
+
+#part_one .image{
+    position: absolute;
+    left: 0;
+    width: 100%;
+    transition: opacity 0.8s ease-in-out;
+}
+
+#part_one .image:not(:hover) ~ #part_one_text {
+    transition: color 0.9s ease-in-out;
+    color: brown;
+  }
+
+#part_one .image:hover {
+    z-index: 1;
+    opacity:1;
+  }
+
+#part_one .image:not(:hover) {
+    z-index: 1;
+    opacity:0;
+}
+
+#part_one #part_one_text:hover {    z-index: 1;
+    opacity:1;
+  }
+
+#part_one .image:not(:hover) {
+    z-index: 1;
+    opacity:0;
+}
+
+#part_two{
+    background-image: url("Pictures/SunRise-SunSet-sunsets-and-sunrises-33423145-1920-1080.jpg");
+    background-size: cover;
+    background-position-y: center;
+    position: relative;
+    height: 1000px;
+    max-height: 85vh;
+    width: 100%;
+    display: inline-block;
+}
+
+
+/*#part_one img{
+    position: absolute;
+    left: 0;
+    width: 100%;
+    transition: opacity 0.8s ease-in-out;
+}
+
+#part_one img:not(:hover) ~ #part_one_text {
+    transition: color 1.5s ease-in-out;
+    color: brown;
+  }
+
+#part_one img:hover {
+    z-index: 1;
+    opacity:1;
+  }
+
+#part_one img:not(:hover) {
+    z-index: 1;
+    opacity:0;
+}*/

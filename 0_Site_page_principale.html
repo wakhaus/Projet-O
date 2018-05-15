@@ -10,7 +10,9 @@
 		<!-- LOADING OF CSS AND JAVASCRIPT -->
 		<link rel="stylesheet" type="text/css" href="title.css">  <!-- Title properties -->
 		<link rel="stylesheet" type="text/css" href="body.css">	 <!-- Body properties -->
-		<link rel="stylesheet" type="text/css" href="Graphique/content_homepage.css"> <!-- mise en page graphe et checkbox -->
+		<link rel="stylesheet" type="text/css" href="image_pages.css">	 <!-- parts with images properties -->
+		<link rel="stylesheet" type="text/css" href="checkbox.css">  <!-- Checkbox properties -->
+		<link rel="stylesheet" type="text/css" href="Graphique/graphic.css"> <!-- mise en page graphe et checkbox -->
 		<script type="text/javascript" src="title_homepage_redirecting.js"></script>  <!-- Function to redirect to the homepage when clicking on the title -->
 	</head>
 
@@ -19,10 +21,9 @@
 
 		<!-- TITLE -->
     	<span id="title_zone" onmouseup="homepage_redirect()" unselectable="on" onselectstart="return false;" onmousedown="return false;">
-            <a id="title"><h1>Projet O</h1></a>
+			<a id="title"><h1>Hommes de Terre</h1></a>
+			<a id="under_title">un monde pour demain?</a>
 		</span>
-
-
 
 		<!-- DROPDOWN MENUS -->
 		<span id="list_bar">
@@ -50,62 +51,87 @@
 			<div class="dropdown"> <!-- Button: 'À propos de nous' -->
 				<button class="dropbtn">À propos de nous</button>
 			</div>
-			<span style="display:inline-block; width:55%;"></span> <!-- Horizontal space -->
+		</span>
+		<script type="text/javascript" src="dropdown-menu_sticky.js"></script>  <!-- Function to make the dropdown-menu sticky -->
+
+		<!-- First part -->
+		<span id="part_one">
+			<span style="display:inline-block; height:30vh;"></span> <!-- Vertical space -->
+			<img class="image_2" src="Pictures/paper.jpg">
+			<img class="image" src="Pictures/Nicolas.Bouvier.full.950449.jpg">
+			<h1 id="part_one_text">&#171; Le sens de l'histoire c'est le cheminement irresistible de catastrophe en catastrophe. &#187;</h1>
 		</span>
 
 		<!--GRAPHIC PAGE-->
-				<div class="graphiquetout">
 		<script src="https://d3js.org/d3.v4.min.js"></script>
 		<style>	/* css du graphique */
-		#Graphique {
-			background-color: grey;margin: 10px auto;
-			}
-		.line {
-			fill: none;
-			stroke: steelblue;
-			stroke-width: 2px;
-			}
+
 		</style>
-		<span id="graphEvenement2">
+		<span id="span_graphic">
 			<fieldset>
-				<div Type='graphEvent2'>
+				<div id="title_graphic">
             				<legend>Graphique</legend>
               				<section id="Graphique"></section>
 				</div>
 				<div id="graph_draw"></div>
-				<div class="graphEvent2">
+				<div>
   					<input type="checkbox" name="ecartType" value="okEcartType">écart Type
 				</div>
+				<div id="graph_coordinates" unselectable="on" onselectstart="return false;" onmousedown="return false;"></div>
 			</fieldset>
 		</span>
 		<script type="text/javascript" src="Graphique/graphic_choose.js"></script>  <!-- choosing which graphic to drawn and attribute of following variables (live script)-->
 		<script type="text/javascript" src="Graphique/graphic_drawn.js"></script>  <!-- drawing of graphics (live script) -->
 		<script type="text/javascript" src="Graphique/standart-deviation-transformation.js"></script> <!-- transformation of the absolute values in standar-deviation values -->
 		<script type="text/javascript" src="Graphique/SD-graphic-drawn.js"></script> <!-- drawing of SD-graphs-->
-</div>
+		
+
 		<!--CHECK BOX EVENTS-->
-		<span id=graphEvenement>
-      			<div class="graphEvent1">
-			<br>
-				<input type="checkbox" class="checkbox" id="temperatureCB" onclick="graphic_choose()" checked>Température
-			</div><div class="graphEvent1">
-				<input type="checkbox" class="checkbox" id="ouraganCB" onclick="graphic_choose()">Ouragans
-			</div><div class="graphEvent1">
-				<input type="checkbox" class="checkbox" id="Co2CB" onclick="graphic_choose()">Co<sub>2</sub> dans l'air
-			</div><div class="graphEvent1">
-				<input type="checkbox" class="checkbox" id="volcanCB" onclick="graphic_choose()">Volcans
-			</div><div class="graphEvent1">
-				<input type="checkbox" class="checkbox" id="tsunamisCB" onclick="graphic_choose()">Tsunamis
-			</div>
-		</span>
+		<span style="display:block; height:200px;"></span> <!-- Vertical space -->
+		<span style="display:inline-block; width:3%;"></span> <!-- Horizontal space -->
+		<label class="container">Température
+			<input type="checkbox" class="checkbox" id="temperatureCB" onclick="graphic_choose()" checked="checked">
+			<span class="checkmark"></span>
+		</label>
+		<br>
+		<span style="display:block; height:20px;"></span> <!-- Vertical space -->
+		<span style="display:inline-block; width:3%;"></span> <!-- Horizontal space -->
+		<label class="container">Dioxyde de carbone
+			<input type="checkbox" class="checkbox" id="Co2CB" onclick="graphic_choose()">
+			<span class="checkmark"></span>
+		</label>
+		<br>
+		<span style="display:block; height:20px;"></span> <!-- Vertical space -->
+		<span style="display:inline-block; width:3%;"></span> <!-- Horizontal space -->
+		<label class="container">Volcans
+			<input type="checkbox" class="checkbox" id="volcanCB" onclick="graphic_choose()">
+			<span class="checkmark"></span>
+		</label>
+		<br>
+		<span style="display:block; height:20px;"></span> <!-- Vertical space -->
+		<span style="display:inline-block; width:3%;"></span> <!-- Horizontal space -->
+		<label class="container">Tsunamis
+			<input type="checkbox" class="checkbox" id="tsunamisCB" onclick="graphic_choose()">
+			<span class="checkmark"></span>
+		</label>
+		<br>
+		<span style="display:block; height:20px;"></span> <!-- Vertical space -->
+		<span style="display:inline-block; width:3%;"></span> <!-- Horizontal space -->
+		<label class="container">Ouragans
+			<input type="checkbox" class="checkbox" id="ouraganCB" onclick="graphic_choose()">
+			<span class="checkmark"></span>
+		</label>
+
 
 		<!-- DRAW FIRST GRAPH WHEN OPENING THE PAGE-->
 		<script type="text/javascript">
 			graphic_choose()
 		</script>
 
-
-
-
+		<!-- Second part -->
+		<span id="part_two">
+			salut
+		</span>
+		
 		</body>
 	</html>

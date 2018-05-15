@@ -2,39 +2,38 @@
 /* DEFAULT STYLE OF THE WEBPAGE */
 
 body{
-    font-family: Futura,Trebuchet MS,Arial,sans-serif;
-    margin-top: 10px;
-	margin-right: 10px;
-	margin-bottom: 10px;
-	margin-left: 10px;
-  text-align: justify;
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;
+  margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
 }
+
 h2{
   border: 2px solid #F0F8FF;
-    border-radius: 5px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    font-weight: normal;
-    background:#F0F8FF;
-    color: #0099cc;
-    margin: auto;
-    padding: 5px;
-    text-align: center
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  font-weight: normal;
+  background:#F0F8FF;
+  color: #0099cc;
+  margin: auto;
+  padding: 5px;
+  text-align: center
 }
 
 h3{
   border: 1px solid #F0F8FF;
-    border-radius: 5px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    font-weight: normal;
-    background:#F0F8FF;
-    color: #0099cc;
-    margin: auto;
-    padding: 5px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  font-weight: normal;
+  background:#F0F8FF;
+  color: #0099cc;
+  margin: auto;
+  padding: 5px;
 }
 
-.dropdown{
-  margin-right: 10%;
-  text-align: center
+.checkmark{
+  z-index: 1;
 }

@@ -1,0 +1,46 @@
+#span_graphic{ /* style of the graph box */
+    float: left;
+    align-items: center;
+    margin: 10px auto;
+  }
+
+#title_graphic{ /* style of the title 'Graphique' on the span */
+  font-size: 300%;
+  vertical-align:bottom;
+  text-align: center;
+}
+
+.line {   /* style of the graph line (plot) */
+  fill: none;
+  stroke: rgb(138, 13, 4);
+  stroke-width: 3px;
+  }
+
+.graphiquetout{
+  float: left;
+}
+
+.grid .tick{
+  stroke-width: 1;
+  opacity: 0.2;
+}
+.grid path {
+  stroke-width: 0;
+}
+
+#graph_coordinates{
+  position: absolute;
+  color: aliceblue;
+  background-color: brown;
+  padding: 10px;
+  border-radius: 25px;
+  opacity: 0;
+  z-index: 5;
+}
+
+#graph_draw{
+  position: relative;
+  display: block;
+  width: 960px;
+  height: 500px;
+}

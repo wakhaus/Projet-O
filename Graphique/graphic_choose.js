@@ -8,7 +8,42 @@ function graphic_choose(){
         }
     }
     if(count==0){
-        d3.select("svg").remove() //remove all graphs
+        d3.select("svg").remove() //remove all graphs and let the x axis be (actually, redrawing it)
+        // set the dimensions and margins of the graph
+        var margin = {top: 20, right: 20, bottom: 30, left: 50},
+        width = 960 - margin.left - margin.right,
+        height = 500 - margin.top - margin.bottom;
+        var svg = d3.select("#graph_draw").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
+
+        // set the ranges // Scale the range of the data
+        var x = d3.scaleTime().domain([new Date("1960"), new Date("2015")]).range([0, width]);
+
+         // Add the X Axis
+         svg.append("g")
+         .attr("transform", "translate(0," + height + ")")
+         .call(d3.axisBottom(x));
+        
+         // gridlines in x axis function
+        function make_x_gridlines() {		
+            return d3.axisBottom(x)
+                .ticks(10);
+        };
+
+        // add the X gridlines
+        svg.append("g")			
+        .attr("class", "grid")
+        .attr("transform", "translate(0," + height + ")")
+        .call(make_x_gridlines()
+            .tickSize(-height)
+            .tickFormat(""));
+
+
     }else if(count==1){                       /* Drawing one graph in absolute values */
         for(i in x){
             var test = x[i].checked;
@@ -23,8 +58,8 @@ function graphic_choose(){
             draw_temperatures(url);
 
         }else if(id=='ouraganCB'){
-            url = 'urldonnees'  /*à définir*/
-            draw_graph(url);
+            url = 'Donnees/ouragans/ouragans.json'
+            draw_ouragans(url);
 
         }else if (id=='Co2CB'){
             var url = "Donnees/co2/Data/co2-mm-mlo_json.json";

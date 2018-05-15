@@ -1,0 +1,7170 @@
+[
+ {
+   "Date": 1970,
+   "NAME": "Hurricane-1 ADELE",
+   "JOUR": "30 MAY- 7 JUN",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Tropical Storm BLANCA",
+   "JOUR": "10-12 JUN",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Tropical Storm CONNIE",
+   "JOUR": "17-21 JUN",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Tropical Storm EILEEN",
+   "JOUR": "26-30 JUN",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Hurricane-2 FRANCESCA",
+   "JOUR": "1-10 JUL",
+   "WIND": 85,
+   "PRESSURE": "991",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Tropical Storm GRETCHEN",
+   "JOUR": "14-21 JUL",
+   "WIND": 45,
+   "PRESSURE": "1009",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Tropical Storm HELGA",
+   "JOUR": "16-20 JUL",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Tropical Storm IONE 2",
+   "JOUR": "22-26 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Tropical Storm IONE 1",
+   "JOUR": "24-25 JUL",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Tropical Storm JOYCE",
+   "JOUR": "29 JUL- 4 AUG",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Tropical Storm KRISTEN",
+   "JOUR": "5- 8 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Hurricane-2 LORRAINE",
+   "JOUR": "16-27 AUG",
+   "WIND": 85,
+   "PRESSURE": "963",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Tropical Storm MAGGIE",
+   "JOUR": "20-27 AUG",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Tropical Storm NORMA",
+   "JOUR": "31 AUG- 6 SEP",
+   "WIND": 50,
+   "PRESSURE": "992",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Hurricane-1 DOT",
+   "JOUR": "1- 4 SEP",
+   "WIND": 70,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Tropical Storm ORLENE",
+   "JOUR": "7- 9 SEP",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Hurricane-2 PATRICIA",
+   "JOUR": "4-11 OCT",
+   "WIND": 95,
+   "PRESSURE": "972",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Tropical Storm ROSALIE",
+   "JOUR": "21-23 OCT",
+   "WIND": 45,
+   "PRESSURE": "1006",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1970,
+   "NAME": "Tropical Storm SELMA",
+   "JOUR": "1- 8 NOV",
+   "WIND": 60,
+   "PRESSURE": "995",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Hurricane-2 AGATHA",
+   "JOUR": "21-25 MAY",
+   "WIND": 85,
+   "PRESSURE": "972",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Hurricane-2 BRIDGET",
+   "JOUR": "14-20 JUN",
+   "WIND": 85,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Hurricane-1 CARLOTTA",
+   "JOUR": "2- 8 JUL",
+   "WIND": 75,
+   "PRESSURE": "980",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Hurricane-4 DENISE",
+   "JOUR": "2-14 JUL",
+   "WIND": 120,
+   "PRESSURE": "951",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Tropical Storm ELEANOR",
+   "JOUR": "7-11 JUL",
+   "WIND": 50,
+   "PRESSURE": "1009",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Hurricane-3 FRANCESCA",
+   "JOUR": "18-23 JUL",
+   "WIND": 100,
+   "PRESSURE": "991",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Tropical Storm GEORGETTE",
+   "JOUR": "20-27 JUL",
+   "WIND": 50,
+   "PRESSURE": "991",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Hurricane-2 HILARY",
+   "JOUR": "26 JUL- 7 AUG",
+   "WIND": 85,
+   "PRESSURE": "964",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Hurricane-3 ILSA",
+   "JOUR": "31 JUL- 8 AUG",
+   "WIND": 100,
+   "PRESSURE": "978",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Tropical Storm JEWEL",
+   "JOUR": "6-11 AUG",
+   "WIND": 60,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Tropical Storm KATRINA",
+   "JOUR": "8-13 AUG",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Hurricane-1 LILY",
+   "JOUR": "28 AUG- 1 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Hurricane-3 MONICA",
+   "JOUR": "29 AUG- 5 SEP",
+   "WIND": 100,
+   "PRESSURE": "1005",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Hurricane-2 NANETTE",
+   "JOUR": "3- 9 SEP",
+   "WIND": 85,
+   "PRESSURE": "990",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Hurricane-3 OLIVIA",
+   "JOUR": "20 SEP- 1 OCT",
+   "WIND": 100,
+   "PRESSURE": "948",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Hurricane-3 PRISCILLA",
+   "JOUR": "6-13 OCT",
+   "WIND": 110,
+   "PRESSURE": "951",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Tropical Storm RAMONA",
+   "JOUR": "28-31 OCT",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1971,
+   "NAME": "Tropical Storm SHARON",
+   "JOUR": "25-29 NOV",
+   "WIND": 35,
+   "PRESSURE": "1009",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1972,
+   "NAME": "Hurricane-1 ANNETTE",
+   "JOUR": "1- 8 JUN",
+   "WIND": 75,
+   "PRESSURE": "993",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1972,
+   "NAME": "Tropical Storm BONNY",
+   "JOUR": "27-30 JUL",
+   "WIND": 45,
+   "PRESSURE": "996",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1972,
+   "NAME": "Hurricane-4 CELESTE",
+   "JOUR": "6-22 AUG",
+   "WIND": 115,
+   "PRESSURE": "940",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1972,
+   "NAME": "Hurricane-2 DIANA",
+   "JOUR": "11-20 AUG",
+   "WIND": 95,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1972,
+   "NAME": "Hurricane-1 ESTELLE",
+   "JOUR": "15-22 AUG",
+   "WIND": 70,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1972,
+   "NAME": "Hurricane-3 FERNANDA",
+   "JOUR": "20 AUG- 1 SEP",
+   "WIND": 100,
+   "PRESSURE": "948",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1972,
+   "NAME": "Hurricane-3 GWEN",
+   "JOUR": "22-31 AUG",
+   "WIND": 110,
+   "PRESSURE": "941",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1972,
+   "NAME": "Hurricane-3 HYACINTH",
+   "JOUR": "28 AUG- 7 SEP",
+   "WIND": 110,
+   "PRESSURE": "962",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1972,
+   "NAME": "Tropical Storm IVA",
+   "JOUR": "14-22 SEP",
+   "WIND": 45,
+   "PRESSURE": "999",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1972,
+   "NAME": "Tropical Storm JUNE",
+   "JOUR": "24-28 SEP",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1972,
+   "NAME": "Hurricane-2 JOANNE",
+   "JOUR": "30 SEP- 7 OCT",
+   "WIND": 85,
+   "PRESSURE": "971",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1972,
+   "NAME": "Tropical Storm KATHLEEN",
+   "JOUR": "18-19 OCT",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1972,
+   "NAME": "Hurricane-3 RUBY",
+   "JOUR": "11-20 NOV",
+   "WIND": 110,
+   "PRESSURE": "944",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1972,
+   "NAME": "Tropical Storm LIZA",
+   "JOUR": "13-15 NOV",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1973,
+   "NAME": "Hurricane-5 AVA",
+   "JOUR": "2-12 JUN",
+   "WIND": 140,
+   "PRESSURE": "915",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 1973,
+   "NAME": "Tropical Storm BERNICE",
+   "JOUR": "22-23 JUN",
+   "WIND": 60,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1973,
+   "NAME": "Tropical Storm CLAUDIA",
+   "JOUR": "26-30 JUN",
+   "WIND": 55,
+   "PRESSURE": "999",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1973,
+   "NAME": "Hurricane-4 DOREEN",
+   "JOUR": "18 JUL- 3 AUG",
+   "WIND": 120,
+   "PRESSURE": "968",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1973,
+   "NAME": "Hurricane-4 EMILY",
+   "JOUR": "21-28 JUL",
+   "WIND": 120,
+   "PRESSURE": "972",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1973,
+   "NAME": "Hurricane-1 FLORENCE",
+   "JOUR": "25-30 JUL",
+   "WIND": 80,
+   "PRESSURE": "995",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1973,
+   "NAME": "Tropical Storm GLENDA",
+   "JOUR": "30 JUL- 5 AUG",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1973,
+   "NAME": "Tropical Storm HEATHER",
+   "JOUR": "31 AUG- 1 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1973,
+   "NAME": "Hurricane-2 IRAH",
+   "JOUR": "22-27 SEP",
+   "WIND": 95,
+   "PRESSURE": "955",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1973,
+   "NAME": "Tropical Storm JENNIFER",
+   "JOUR": "23-27 SEP",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1973,
+   "NAME": "Hurricane-2 KATHERINE",
+   "JOUR": "29 SEP- 9 OCT",
+   "WIND": 85,
+   "PRESSURE": "978",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1973,
+   "NAME": "Hurricane-1 LILLIAN",
+   "JOUR": "5- 9 OCT",
+   "WIND": 75,
+   "PRESSURE": "990",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Tropical Storm ALETTA",
+   "JOUR": "28-30 MAY",
+   "WIND": 50,
+   "PRESSURE": "992",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Tropical Storm BLANCA",
+   "JOUR": "5- 8 JUN",
+   "WIND": 50,
+   "PRESSURE": "1001",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Hurricane-3 CONNIE",
+   "JOUR": "7-22 JUN",
+   "WIND": 110,
+   "PRESSURE": "942",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Hurricane-1 DOLORES",
+   "JOUR": "14-17 JUN",
+   "WIND": 70,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Tropical Storm EILEEN",
+   "JOUR": "2- 4 JUL",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Hurricane-1 FRANCESCA",
+   "JOUR": "14-19 JUL",
+   "WIND": 65,
+   "PRESSURE": "986",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Hurricane-2 GRETCHEN",
+   "JOUR": "17-21 JUL",
+   "WIND": 85,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Tropical Storm HELGA",
+   "JOUR": "10-13 AUG",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Hurricane-3 IONE",
+   "JOUR": "20-30 AUG",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Tropical Storm OLIVE",
+   "JOUR": "22-26 AUG",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Hurricane-1 JOYCE",
+   "JOUR": "22-27 AUG",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Hurricane-1 KIRSTEN",
+   "JOUR": "22-29 AUG",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Tropical Storm LORRAINE",
+   "JOUR": "23-28 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Hurricane-4 MAGGIE",
+   "JOUR": "26 AUG- 1 SEP",
+   "WIND": 120,
+   "PRESSURE": "934",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Hurricane-1 NORMA",
+   "JOUR": "9-10 SEP",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Hurricane-2 ORLENE",
+   "JOUR": "21-24 SEP",
+   "WIND": 90,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Hurricane-1 PATRICIA",
+   "JOUR": "6-17 OCT",
+   "WIND": 80,
+   "PRESSURE": "964",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1974,
+   "NAME": "Tropical Storm ROSALIE",
+   "JOUR": "21-24 OCT",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Hurricane-1 AGATHA",
+   "JOUR": "2- 5 JUN",
+   "WIND": 70,
+   "PRESSURE": "1005",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Tropical Storm BRIDGET",
+   "JOUR": "28 JUN- 3 JUL",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Hurricane-3 CARLOTTA",
+   "JOUR": "2-11 JUL",
+   "WIND": 110,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Hurricane-4 DENISE",
+   "JOUR": "5-15 JUL",
+   "WIND": 120,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Tropical Storm ELEANOR",
+   "JOUR": "10-12 JUL",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Tropical Storm FRANCENE",
+   "JOUR": "27-30 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Tropical Storm GEORGETTE",
+   "JOUR": "11-14 AUG",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Tropical Storm HILARY",
+   "JOUR": "13-17 AUG",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Hurricane-2 ILSA",
+   "JOUR": "18-26 AUG",
+   "WIND": 90,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Hurricane-1 JEWEL",
+   "JOUR": "24-31 AUG",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Hurricane-4 KATRINA",
+   "JOUR": "29 AUG- 7 SEP",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Hurricane-1 1",
+   "JOUR": "31 AUG- 5 SEP",
+   "WIND": 65,
+   "PRESSURE": "990",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Hurricane-1 LILY",
+   "JOUR": "16-22 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Tropical Storm MONICA",
+   "JOUR": "28 SEP- 2 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Tropical Storm NANETTE",
+   "JOUR": "28 SEP- 4 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Hurricane-3 OLIVIA",
+   "JOUR": "22-25 OCT",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1975,
+   "NAME": "Tropical Storm PRISCILLA",
+   "JOUR": "2- 7 NOV",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Hurricane-4 ANNETTE",
+   "JOUR": "3-14 JUN",
+   "WIND": 120,
+   "PRESSURE": "925",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Hurricane-1 BONNY",
+   "JOUR": "26-29 JUN",
+   "WIND": 65,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Tropical Storm CELESTE",
+   "JOUR": "14-19 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Hurricane-2 DIANA",
+   "JOUR": "16-23 JUL",
+   "WIND": 85,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Tropical Storm ESTELLE",
+   "JOUR": "27-29 JUL",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Tropical Storm FERNANDA",
+   "JOUR": "28 JUL- 2 AUG",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Tropical Storm GWEN",
+   "JOUR": "5-18 AUG",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Hurricane-3 HYACINTH",
+   "JOUR": "6-14 AUG",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Hurricane-4 IVA",
+   "JOUR": "24 AUG- 2 SEP",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Tropical Storm JOANNE",
+   "JOUR": "29 AUG- 8 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Hurricane-1 KATHLEEN",
+   "JOUR": "7-11 SEP",
+   "WIND": 70,
+   "PRESSURE": "986",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Hurricane-1 KATE",
+   "JOUR": "22 SEP- 2 OCT",
+   "WIND": 80,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Hurricane-4 LIZA",
+   "JOUR": "25 SEP- 2 OCT",
+   "WIND": 120,
+   "PRESSURE": "948",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Hurricane-4 MADELINE",
+   "JOUR": "29 SEP- 8 OCT",
+   "WIND": 125,
+   "PRESSURE": "941",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1976,
+   "NAME": "Tropical Storm NAOMI",
+   "JOUR": "25-30 OCT",
+   "WIND": 45,
+   "PRESSURE": "1005",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1977,
+   "NAME": "Tropical Storm AVA",
+   "JOUR": "26-30 MAY",
+   "WIND": 55,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1977,
+   "NAME": "Tropical Storm BERNICE",
+   "JOUR": "25-28 JUN",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1977,
+   "NAME": "Hurricane-1 CLAUDIA",
+   "JOUR": "3- 7 JUL",
+   "WIND": 80,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1977,
+   "NAME": "Hurricane-1 DOREEN",
+   "JOUR": "13-18 AUG",
+   "WIND": 65,
+   "PRESSURE": "979",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1977,
+   "NAME": "Tropical Storm EMILY",
+   "JOUR": "13-14 SEP",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1977,
+   "NAME": "Hurricane-2 FLORENCE",
+   "JOUR": "20-24 SEP",
+   "WIND": 90,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1977,
+   "NAME": "Tropical Storm GLENDA",
+   "JOUR": "24-27 SEP",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1977,
+   "NAME": "Hurricane-1 HEATHER",
+   "JOUR": "4- 7 OCT",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Hurricane-1 ALETTA",
+   "JOUR": "30 MAY- 1 JUN",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Tropical Storm BUD",
+   "JOUR": "17-20 JUN",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Hurricane-4 CARLOTTA",
+   "JOUR": "17-25 JUN",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Hurricane-3 DANIEL",
+   "JOUR": "26 JUN- 3 JUL",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Tropical Storm EMILIA",
+   "JOUR": "6-10 JUL",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Hurricane-4 FICO",
+   "JOUR": "9-28 JUL",
+   "WIND": 120,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Hurricane-3 GILMA",
+   "JOUR": "13-20 JUL",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Hurricane-4 HECTOR",
+   "JOUR": "22-29 JUL",
+   "WIND": 120,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Hurricane-1 IVA",
+   "JOUR": "11-15 AUG",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Hurricane-2 JOHN",
+   "JOUR": "18-30 AUG",
+   "WIND": 90,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Hurricane-2 KRISTY",
+   "JOUR": "18-28 AUG",
+   "WIND": 90,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Tropical Storm LANE",
+   "JOUR": "19-24 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Hurricane-1 MIRIAM",
+   "JOUR": "23 AUG- 2 SEP",
+   "WIND": 80,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Hurricane-4 NORMAN",
+   "JOUR": "30 AUG- 7 SEP",
+   "WIND": 120,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Hurricane-1 OLIVIA",
+   "JOUR": "20-23 SEP",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Tropical Storm PAUL",
+   "JOUR": "23-27 SEP",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Hurricane-1 ROSA",
+   "JOUR": "2- 7 OCT",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Hurricane-4 SUSAN",
+   "JOUR": "18-24 OCT",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1978,
+   "NAME": "Tropical Storm SERGIO",
+   "JOUR": "18-21 OCT",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1979,
+   "NAME": "Hurricane-2 ANDRES",
+   "JOUR": "31 MAY- 4 JUN",
+   "WIND": 85,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1979,
+   "NAME": "Tropical Storm BLANCA",
+   "JOUR": "21-25 JUN",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1979,
+   "NAME": "Tropical Storm CARLOS",
+   "JOUR": "14-16 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1979,
+   "NAME": "Hurricane-3 DOLORES",
+   "JOUR": "17-23 JUL",
+   "WIND": 105,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1979,
+   "NAME": "Hurricane-4 ENRIQUE",
+   "JOUR": "17-24 AUG",
+   "WIND": 125,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1979,
+   "NAME": "Hurricane-3 FEFA",
+   "JOUR": "21-25 AUG",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1979,
+   "NAME": "Hurricane-1 GUILLERMO",
+   "JOUR": "8-13 SEP",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1979,
+   "NAME": "Tropical Storm HILDA",
+   "JOUR": "4- 6 OCT",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1979,
+   "NAME": "Hurricane-4 IGNACIO",
+   "JOUR": "23-30 OCT",
+   "WIND": 125,
+   "PRESSURE": "938",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1979,
+   "NAME": "Tropical Storm JIMENA",
+   "JOUR": "15-18 NOV",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1980,
+   "NAME": "Hurricane-3 AGATHA",
+   "JOUR": "9-15 JUN",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1980,
+   "NAME": "Tropical Storm BLAS",
+   "JOUR": "16-19 JUN",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1980,
+   "NAME": "Hurricane-1 CELIA",
+   "JOUR": "25-29 JUN",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1980,
+   "NAME": "Tropical Storm DARBY",
+   "JOUR": "1- 3 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1980,
+   "NAME": "Tropical Storm ESTELLE",
+   "JOUR": "12-13 JUL",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1980,
+   "NAME": "Tropical Storm FRANK",
+   "JOUR": "18-22 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1980,
+   "NAME": "Hurricane-1 GEORGETTE",
+   "JOUR": "28-31 JUL",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1980,
+   "NAME": "Hurricane-2 HOWARD",
+   "JOUR": "31 JUL- 7 AUG",
+   "WIND": 90,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1980,
+   "NAME": "Hurricane-2 ISIS",
+   "JOUR": "5-11 AUG",
+   "WIND": 85,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1980,
+   "NAME": "Hurricane-3 JAVIER",
+   "JOUR": "22-29 AUG",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1980,
+   "NAME": "Hurricane-4 KAY",
+   "JOUR": "16-30 SEP",
+   "WIND": 120,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1980,
+   "NAME": "Tropical Storm LESTER",
+   "JOUR": "21-25 SEP",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1980,
+   "NAME": "Tropical Storm MADELINE",
+   "JOUR": "11-12 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1980,
+   "NAME": "Tropical Storm NEWTON",
+   "JOUR": "28-29 OCT",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Tropical Storm ADRIAN",
+   "JOUR": "30 MAY- 4 JUN",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Hurricane-1 BEATRIZ",
+   "JOUR": "28 JUN- 4 JUL",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Tropical Storm CALVIN",
+   "JOUR": "4- 9 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Hurricane-1 DORA",
+   "JOUR": "10-16 JUL",
+   "WIND": 80,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Tropical Storm EUGENE",
+   "JOUR": "16-21 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Hurricane-2 FERNANDA",
+   "JOUR": "6-13 AUG",
+   "WIND": 90,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Hurricane-1 GREG",
+   "JOUR": "13-22 AUG",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Hurricane-1 HILARY",
+   "JOUR": "21-28 AUG",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Tropical Storm IRWIN",
+   "JOUR": "27-31 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Hurricane-1 JOVA",
+   "JOUR": "14-21 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Tropical Storm KNUT",
+   "JOUR": "19-21 SEP",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Tropical Storm LIDIA",
+   "JOUR": "6- 8 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Tropical Storm MAX",
+   "JOUR": "7-10 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Hurricane-3 NORMA",
+   "JOUR": "8-12 OCT",
+   "WIND": 110,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1981,
+   "NAME": "Hurricane-1 OTIS",
+   "JOUR": "24-30 OCT",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Tropical Storm ALETTA",
+   "JOUR": "20-29 MAY",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Tropical Storm BUD",
+   "JOUR": "15-17 JUN",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Tropical Storm CARLOTTA",
+   "JOUR": "1- 6 JUL",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Hurricane-3 DANIEL",
+   "JOUR": "7-22 JUL",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Tropical Storm EMILIA",
+   "JOUR": "12-15 JUL",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Hurricane-1 FABIO",
+   "JOUR": "17-25 JUL",
+   "WIND": 70,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Hurricane-3 GILMA",
+   "JOUR": "26 JUL- 2 AUG",
+   "WIND": 110,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Hurricane-1 HECTOR",
+   "JOUR": "29 JUL- 3 AUG",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Tropical Storm IVA",
+   "JOUR": "1- 8 AUG",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Hurricane-3 JOHN",
+   "JOUR": "2-11 AUG",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Hurricane-1 KRISTY",
+   "JOUR": "8-17 AUG",
+   "WIND": 80,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Tropical Storm LANE",
+   "JOUR": "8-15 AUG",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Hurricane-1 MIRIAM",
+   "JOUR": "30 AUG- 6 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Tropical Storm AKONI",
+   "JOUR": "30 AUG- 2 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Hurricane-2 NORMAN",
+   "JOUR": "9-18 SEP",
+   "WIND": 90,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Tropical Storm EMA",
+   "JOUR": "15-19 SEP",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Tropical Storm HANA",
+   "JOUR": "15-19 SEP",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Hurricane-4 OLIVIA",
+   "JOUR": "18-25 SEP",
+   "WIND": 125,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Hurricane-2 PAUL",
+   "JOUR": "18-30 SEP",
+   "WIND": 95,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Tropical Storm ROSA",
+   "JOUR": "30 SEP- 6 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Hurricane-3 SERGIO",
+   "JOUR": "14-23 OCT",
+   "WIND": 110,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Tropical Storm TARA",
+   "JOUR": "19-26 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1982,
+   "NAME": "Hurricane-1 IWA",
+   "JOUR": "19-25 NOV",
+   "WIND": 80,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Hurricane-2 ADOLPH",
+   "JOUR": "21-28 MAY",
+   "WIND": 95,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Hurricane-4 BARBARA",
+   "JOUR": "9-18 JUN",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Tropical Storm COSME",
+   "JOUR": "2- 5 JUL",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Tropical Storm DALILIA",
+   "JOUR": "5-12 JUL",
+   "WIND": 60,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Tropical Storm ERICK",
+   "JOUR": "12-16 JUL",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Tropical Storm FLOSSIE",
+   "JOUR": "17-21 JUL",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Hurricane-1 GIL",
+   "JOUR": "23 JUL- 5 AUG",
+   "WIND": 80,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Hurricane-4 HENRIETTE",
+   "JOUR": "27 JUL- 6 AUG",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Hurricane-2 ISMAEL",
+   "JOUR": "8-14 AUG",
+   "WIND": 85,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Tropical Storm JULIETTE",
+   "JOUR": "24 AUG- 1 SEP",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Hurricane-4 KIKO",
+   "JOUR": "31 AUG- 9 SEP",
+   "WIND": 125,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Hurricane-3 LORENA",
+   "JOUR": "6-14 SEP",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Hurricane-3 MANUEL",
+   "JOUR": "12-20 SEP",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Tropical Storm NARDA",
+   "JOUR": "21 SEP- 1 OCT",
+   "WIND": 60,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Tropical Storm OCTAVE",
+   "JOUR": "27 SEP- 2 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Hurricane-3 PRISCILLA",
+   "JOUR": "30 SEP- 7 OCT",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Hurricane-4 RAYMOND",
+   "JOUR": "8-20 OCT",
+   "WIND": 125,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Tropical Storm SONIA",
+   "JOUR": "9-14 OCT",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Hurricane-4 TICO",
+   "JOUR": "11-19 OCT",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Tropical Storm VELMA",
+   "JOUR": "1- 3 NOV",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1983,
+   "NAME": "Hurricane-1 WINNIE",
+   "JOUR": "4- 7 DEC",
+   "WIND": 80,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Tropical Storm ALMA",
+   "JOUR": "17-21 MAY",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Hurricane-1 BORIS",
+   "JOUR": "28 MAY-18 JUN",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Hurricane-2 CRISTINA",
+   "JOUR": "17-26 JUN",
+   "WIND": 90,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Hurricane-4 DOUGLAS",
+   "JOUR": "25 JUN- 6 JUL",
+   "WIND": 125,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Hurricane-4 ELIDA",
+   "JOUR": "28 JUN- 8 JUL",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Hurricane-2 FAUSTO",
+   "JOUR": "3-10 JUL",
+   "WIND": 95,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Hurricane-3 GENEVIEVE",
+   "JOUR": "7-14 JUL",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Tropical Storm HERNAN",
+   "JOUR": "27 JUL- 1 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Hurricane-4 ISELLE",
+   "JOUR": "3-12 AUG",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Tropical Storm JULIO",
+   "JOUR": "15-20 AUG",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Hurricane-3 KELI",
+   "JOUR": "16-22 AUG",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Tropical Storm KENNA",
+   "JOUR": "16-21 AUG",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Tropical Storm LALA",
+   "JOUR": "23 AUG- 2 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Hurricane-1 LOWELL",
+   "JOUR": "26-30 AUG",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Tropical Storm MOKE",
+   "JOUR": "4- 5 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Hurricane-1 MARIE",
+   "JOUR": "5-11 SEP",
+   "WIND": 80,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Hurricane-4 NORBERT",
+   "JOUR": "14-26 SEP",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Hurricane-2 ODILE",
+   "JOUR": "17-23 SEP",
+   "WIND": 90,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Hurricane-3 POLO",
+   "JOUR": "26 SEP- 3 OCT",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Tropical Storm RACHEL",
+   "JOUR": "7-16 OCT",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1984,
+   "NAME": "Tropical Storm SIMON",
+   "JOUR": "31 OCT- 8 NOV",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Tropical Storm ANDRES",
+   "JOUR": "5-12 JUN",
+   "WIND": 60,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Hurricane-3 BLANCA",
+   "JOUR": "6-16 JUN",
+   "WIND": 105,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Tropical Storm CARLOS",
+   "JOUR": "7-10 JUN",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Hurricane-3 DOLORES",
+   "JOUR": "26 JUN- 5 JUL",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Tropical Storm ENRIQUE",
+   "JOUR": "27 JUN- 5 JUL",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Tropical Storm FEFA",
+   "JOUR": "2- 6 JUL",
+   "WIND": 60,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Tropical Storm GUILLERMO",
+   "JOUR": "7-12 JUL",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Tropical Storm HILDA",
+   "JOUR": "18-20 JUL",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Hurricane-4 IGNACIO",
+   "JOUR": "21-27 JUL",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Hurricane-4 JIMENA",
+   "JOUR": "20-29 JUL",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Tropical Storm KEVIN",
+   "JOUR": "29 JUL- 6 AUG",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Tropical Storm LINDA",
+   "JOUR": "29 JUL- 9 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Hurricane-1 MARTY",
+   "JOUR": "6-13 AUG",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Tropical Storm NORA",
+   "JOUR": "19-23 AUG",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Hurricane-1 OLAF",
+   "JOUR": "22-31 AUG",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Hurricane-1 PAULINE",
+   "JOUR": "27 AUG- 9 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Hurricane-4 RICK",
+   "JOUR": "1-12 SEP",
+   "WIND": 125,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Hurricane-3 SANDRA",
+   "JOUR": "5-17 SEP",
+   "WIND": 110,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Hurricane-3 TERRY",
+   "JOUR": "15-24 SEP",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Tropical Storm VIVIAN",
+   "JOUR": "18-21 SEP",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Hurricane-2 WALDO",
+   "JOUR": "7- 9 OCT",
+   "WIND": 90,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Hurricane-1 NELE",
+   "JOUR": "23-30 OCT",
+   "WIND": 80,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1985,
+   "NAME": "Hurricane-3 XINA",
+   "JOUR": "25 OCT- 5 NOV",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Hurricane-1 AGATHA",
+   "JOUR": "22-29 MAY",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Tropical Storm BLAS",
+   "JOUR": "17-19 JUN",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Hurricane-1 CELIA",
+   "JOUR": "24-30 JUN",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Tropical Storm DARBY",
+   "JOUR": "3- 7 JUL",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Hurricane-4 ESTELLE",
+   "JOUR": "16-26 JUL",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Hurricane-1 FRANK",
+   "JOUR": "24 JUL- 3 AUG",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Tropical Storm GEORGETTE",
+   "JOUR": "3- 4 AUG",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Tropical Storm HOWARD",
+   "JOUR": "16-18 AUG",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Tropical Storm ISIS",
+   "JOUR": "19-24 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Hurricane-4 JAVIER",
+   "JOUR": "20-31 AUG",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Tropical Storm KAY",
+   "JOUR": "28 AUG- 3 SEP",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Tropical Storm LESTER",
+   "JOUR": "13-17 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Tropical Storm MADELINE",
+   "JOUR": "15-22 SEP",
+   "WIND": 60,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Hurricane-1 NEWTON",
+   "JOUR": "18-24 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Hurricane-1 ORLENE",
+   "JOUR": "21-25 SEP",
+   "WIND": 70,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Hurricane-2 PAINE",
+   "JOUR": "28 SEP- 2 OCT",
+   "WIND": 85,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1986,
+   "NAME": "Hurricane-4 ROSLYN",
+   "JOUR": "15-22 OCT",
+   "WIND": 125,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Tropical Storm ADRIAN",
+   "JOUR": "7- 9 JUN",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Tropical Storm BEATRIZ",
+   "JOUR": "3- 7 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Tropical Storm CALVIN",
+   "JOUR": "5-10 JUL",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Tropical Storm DORA",
+   "JOUR": "15-20 JUL",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Hurricane-2 EUGENE",
+   "JOUR": "22-26 JUL",
+   "WIND": 85,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Tropical Storm FERNANDA",
+   "JOUR": "24-31 JUL",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Hurricane-1 GREG",
+   "JOUR": "28 JUL- 3 AUG",
+   "WIND": 70,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Hurricane-3 HILARY",
+   "JOUR": "31 JUL- 9 AUG",
+   "WIND": 105,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Tropical Storm IRWIN",
+   "JOUR": "3- 9 AUG",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Hurricane-2 JOVA",
+   "JOUR": "13-22 AUG",
+   "WIND": 90,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Tropical Storm OKA",
+   "JOUR": "26-29 AUG",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Tropical Storm KNUT",
+   "JOUR": "28-30 AUG",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Hurricane-1 LIDIA",
+   "JOUR": "29 AUG- 3 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Hurricane-4 MAX",
+   "JOUR": "9-16 SEP",
+   "WIND": 135,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Hurricane-1 NORMA",
+   "JOUR": "14-20 SEP",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Hurricane-3 OTIS",
+   "JOUR": "20-26 SEP",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Hurricane-2 PEKE",
+   "JOUR": "21-27 SEP",
+   "WIND": 90,
+   "PRESSURE": "0",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Tropical Storm PILAR",
+   "JOUR": "30 SEP- 1 OCT",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Hurricane-4 RAMON",
+   "JOUR": "5-12 OCT",
+   "WIND": 120,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1987,
+   "NAME": "Tropical Storm SELMA",
+   "JOUR": "27-31 OCT",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Tropical Storm ALETTA",
+   "JOUR": "16-21 JUN",
+   "WIND": 60,
+   "PRESSURE": "992",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Tropical Storm BUD",
+   "JOUR": "20-22 JUN",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Hurricane-1 CARLOTTA",
+   "JOUR": "8-15 JUL",
+   "WIND": 65,
+   "PRESSURE": "994",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Tropical Storm DANIEL",
+   "JOUR": "19-26 JUL",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Tropical Storm EMILIA",
+   "JOUR": "27 JUL- 2 AUG",
+   "WIND": 60,
+   "PRESSURE": "992",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Hurricane-4 FABIO",
+   "JOUR": "28 JUL- 9 AUG",
+   "WIND": 120,
+   "PRESSURE": "943",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Tropical Storm GILMA",
+   "JOUR": "28 JUL- 3 AUG",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Hurricane-4 HECTOR",
+   "JOUR": "30 JUL- 9 AUG",
+   "WIND": 125,
+   "PRESSURE": "935",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Hurricane-2 IVA",
+   "JOUR": "5-13 AUG",
+   "WIND": 90,
+   "PRESSURE": "968",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Tropical Storm JOHN",
+   "JOUR": "16-21 AUG",
+   "WIND": 35,
+   "PRESSURE": "1004",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Hurricane-3 ULEKI",
+   "JOUR": "28 AUG-13 SEP",
+   "WIND": 110,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Hurricane-1 KRISTY",
+   "JOUR": "29 AUG- 6 SEP",
+   "WIND": 80,
+   "PRESSURE": "976",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Tropical Storm WILA",
+   "JOUR": "21-25 SEP",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Hurricane-2 LANE",
+   "JOUR": "21-30 SEP",
+   "WIND": 90,
+   "PRESSURE": "970",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1988,
+   "NAME": "Tropical Storm MIRIAM",
+   "JOUR": "23 OCT- 2 NOV",
+   "WIND": 60,
+   "PRESSURE": "986",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Storm ADOLPH",
+   "JOUR": "31 MAY- 5 JUN",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Hurricane-1 BARBARA",
+   "JOUR": "15-21 JUN",
+   "WIND": 70,
+   "PRESSURE": "984",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Hurricane-1 COSME",
+   "JOUR": "18-23 JUN",
+   "WIND": 75,
+   "PRESSURE": "979",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Depression 4",
+   "JOUR": "9-10 JUL",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Depression 5",
+   "JOUR": "9-13 JUL",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Hurricane-1 DALILIA",
+   "JOUR": "11-21 JUL",
+   "WIND": 80,
+   "PRESSURE": "977",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Depression 7",
+   "JOUR": "15-18 JUL",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Storm ERICK",
+   "JOUR": "19-21 JUL",
+   "WIND": 35,
+   "PRESSURE": "1005",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Storm FLOSSIE",
+   "JOUR": "23-28 JUL",
+   "WIND": 35,
+   "PRESSURE": "1004",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Hurricane-1 GIL",
+   "JOUR": "30 JUL- 5 AUG",
+   "WIND": 75,
+   "PRESSURE": "979",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Storm HENRIETTE",
+   "JOUR": "15-18 AUG",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Hurricane-3 ISMAEL",
+   "JOUR": "14-25 AUG",
+   "WIND": 105,
+   "PRESSURE": "955",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Storm JULIETTE",
+   "JOUR": "21-25 AUG",
+   "WIND": 55,
+   "PRESSURE": "992",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Hurricane-3 KIKO",
+   "JOUR": "25-29 AUG",
+   "WIND": 105,
+   "PRESSURE": "955",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Hurricane-1 LORENA",
+   "JOUR": "27 AUG- 6 SEP",
+   "WIND": 65,
+   "PRESSURE": "989",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Storm MANUEL",
+   "JOUR": "28-31 AUG",
+   "WIND": 40,
+   "PRESSURE": "1002",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Storm NARDA",
+   "JOUR": "3- 8 SEP",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Hurricane-4 OCTAVE",
+   "JOUR": "8-16 SEP",
+   "WIND": 115,
+   "PRESSURE": "948",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Storm PRISCILLA",
+   "JOUR": "21-25 SEP",
+   "WIND": 55,
+   "PRESSURE": "993",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Depression 20",
+   "JOUR": "25-27 SEP",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Hurricane-4 RAYMOND",
+   "JOUR": "25 SEP- 5 OCT",
+   "WIND": 125,
+   "PRESSURE": "935",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Depression 22",
+   "JOUR": "3- 8 OCT",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Depression 23",
+   "JOUR": "14-14 OCT",
+   "WIND": 20,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1989,
+   "NAME": "Tropical Depression 24",
+   "JOUR": "16-19 OCT",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-1 ALMA",
+   "JOUR": "12-18 MAY",
+   "WIND": 75,
+   "PRESSURE": "979",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-1 BORIS",
+   "JOUR": "2- 8 JUN",
+   "WIND": 80,
+   "PRESSURE": "977",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Tropical Storm CRISTINA",
+   "JOUR": "8-16 JUN",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Tropical Storm DOUGLAS",
+   "JOUR": "19-23 JUN",
+   "WIND": 55,
+   "PRESSURE": "992",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-1 ELIDA",
+   "JOUR": "26 JUN- 2 JUL",
+   "WIND": 70,
+   "PRESSURE": "990",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Tropical Depression 6",
+   "JOUR": "29 JUN- 3 JUL",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-1 FAUSTO",
+   "JOUR": "6-12 JUL",
+   "WIND": 75,
+   "PRESSURE": "979",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-2 GENEVIEVE",
+   "JOUR": "10-18 JUL",
+   "WIND": 90,
+   "PRESSURE": "970",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-4 HERNAN",
+   "JOUR": "19-31 JUL",
+   "WIND": 135,
+   "PRESSURE": "928",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-3 ISELLE",
+   "JOUR": "20-30 JUL",
+   "WIND": 105,
+   "PRESSURE": "958",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Tropical Storm AKA",
+   "JOUR": "7-15 AUG",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Tropical Depression 11",
+   "JOUR": "24-26 JUL",
+   "WIND": 25,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Tropical Depression 12",
+   "JOUR": "16-19 AUG",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-3 JULIO",
+   "JOUR": "17-24 AUG",
+   "WIND": 100,
+   "PRESSURE": "960",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-1 KENNA",
+   "JOUR": "21-30 AUG",
+   "WIND": 75,
+   "PRESSURE": "980",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-1 LOWELL",
+   "JOUR": "23 AUG- 1 SEP",
+   "WIND": 65,
+   "PRESSURE": "986",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-4 MARIE",
+   "JOUR": "7-21 SEP",
+   "WIND": 120,
+   "PRESSURE": "944",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-1 NORBERT",
+   "JOUR": "10-19 SEP",
+   "WIND": 70,
+   "PRESSURE": "983",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Tropical Depression 18",
+   "JOUR": "9-12 SEP",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-4 ODILE",
+   "JOUR": "23 SEP- 2 OCT",
+   "WIND": 125,
+   "PRESSURE": "935",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-1 POLO",
+   "JOUR": "28 SEP- 1 OCT",
+   "WIND": 65,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Tropical Storm RACHEL",
+   "JOUR": "27 SEP- 3 OCT",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Tropical Storm SIMON",
+   "JOUR": "9-14 OCT",
+   "WIND": 60,
+   "PRESSURE": "990",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-4 TRUDY",
+   "JOUR": "16 OCT- 1 NOV",
+   "WIND": 135,
+   "PRESSURE": "924",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1990,
+   "NAME": "Hurricane-2 VANCE",
+   "JOUR": "21-31 OCT",
+   "WIND": 85,
+   "PRESSURE": "975",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Tropical Storm ANDRES",
+   "JOUR": "16-20 MAY",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Tropical Storm BLANCA",
+   "JOUR": "14-22 JUN",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Hurricane-3 CARLOS",
+   "JOUR": "16-27 JUN",
+   "WIND": 105,
+   "PRESSURE": "955",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Hurricane-1 DELORES",
+   "JOUR": "22-28 JUN",
+   "WIND": 75,
+   "PRESSURE": "979",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Tropical Depression 5",
+   "JOUR": "28-30 JUN",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Hurricane-1 ENRIQUE",
+   "JOUR": "15-21 JUL",
+   "WIND": 65,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Hurricane-3 FEFA",
+   "JOUR": "29 JUL- 8 AUG",
+   "WIND": 105,
+   "PRESSURE": "959",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Hurricane-1 GUILLERMO",
+   "JOUR": "4-10 AUG",
+   "WIND": 70,
+   "PRESSURE": "983",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Tropical Storm HILDA",
+   "JOUR": "8-14 AUG",
+   "WIND": 55,
+   "PRESSURE": "992",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Tropical Depression 10",
+   "JOUR": "12-14 SEP",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Tropical Storm IGNACIO",
+   "JOUR": "16-19 SEP",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Hurricane-4 JIMENA",
+   "JOUR": "20 SEP- 2 OCT",
+   "WIND": 115,
+   "PRESSURE": "945",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Hurricane-4 KEVIN",
+   "JOUR": "25 SEP-12 OCT",
+   "WIND": 125,
+   "PRESSURE": "935",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Hurricane-3 LINDA",
+   "JOUR": "3-13 OCT",
+   "WIND": 105,
+   "PRESSURE": "957",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Hurricane-1 MARTY",
+   "JOUR": "7-18 OCT",
+   "WIND": 70,
+   "PRESSURE": "979",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1991,
+   "NAME": "Hurricane-2 NORA",
+   "JOUR": "7-12 NOV",
+   "WIND": 90,
+   "PRESSURE": "970",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-3 EKEKA",
+   "JOUR": "26 JAN- 9 FEB",
+   "WIND": 100,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Tropical Storm HALI",
+   "JOUR": "28-30 MAR",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Tropical Storm AGATHA",
+   "JOUR": "1- 5 JUN",
+   "WIND": 60,
+   "PRESSURE": "990",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Tropical Depression 2",
+   "JOUR": "16-18 JUN",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Tropical Storm BLAS",
+   "JOUR": "22-23 JUN",
+   "WIND": 35,
+   "PRESSURE": "1004",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-4 CELIA",
+   "JOUR": "22 JUN- 4 JUL",
+   "WIND": 125,
+   "PRESSURE": "935",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-3 DARBY",
+   "JOUR": "2-10 JUL",
+   "WIND": 105,
+   "PRESSURE": "968",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-4 ESTELLE",
+   "JOUR": "9-17 JUL",
+   "WIND": 120,
+   "PRESSURE": "943",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-4 FRANK",
+   "JOUR": "13-23 JUL",
+   "WIND": 125,
+   "PRESSURE": "935",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-2 GEORGETTE",
+   "JOUR": "14-26 JUL",
+   "WIND": 95,
+   "PRESSURE": "964",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Tropical Storm HOWARD",
+   "JOUR": "26-30 JUL",
+   "WIND": 55,
+   "PRESSURE": "992",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Tropical Storm ISIS",
+   "JOUR": "28 JUL- 2 AUG",
+   "WIND": 55,
+   "PRESSURE": "992",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-1 JAVIER",
+   "JOUR": "30 JUL-12 AUG",
+   "WIND": 70,
+   "PRESSURE": "985",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Tropical Depression 12",
+   "JOUR": "10-13 AUG",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Tropical Storm KAY",
+   "JOUR": "18-22 AUG",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-1 LESTER",
+   "JOUR": "20-24 AUG",
+   "WIND": 70,
+   "PRESSURE": "985",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Tropical Storm MADELINE",
+   "JOUR": "27-31 AUG",
+   "WIND": 45,
+   "PRESSURE": "999",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Tropical Storm NEWTON",
+   "JOUR": "27-31 AUG",
+   "WIND": 45,
+   "PRESSURE": "999",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-4 ORLENE",
+   "JOUR": "2-14 SEP",
+   "WIND": 125,
+   "PRESSURE": "934",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-4 INIKI",
+   "JOUR": "5-13 SEP",
+   "WIND": 125,
+   "PRESSURE": "938",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-1 PAINE",
+   "JOUR": "11-16 SEP",
+   "WIND": 65,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-2 ROSLYN",
+   "JOUR": "13-25 SEP",
+   "WIND": 85,
+   "PRESSURE": "975",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-1 SEYMORE",
+   "JOUR": "17-27 SEP",
+   "WIND": 75,
+   "PRESSURE": "980",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-4 TINA",
+   "JOUR": "17 SEP-11 OCT",
+   "WIND": 130,
+   "PRESSURE": "932",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-4 VIRGIL",
+   "JOUR": "1- 5 OCT",
+   "WIND": 115,
+   "PRESSURE": "948",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Hurricane-3 WINIFRED",
+   "JOUR": "6-10 OCT",
+   "WIND": 100,
+   "PRESSURE": "960",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Tropical Storm XAVIER",
+   "JOUR": "13-15 OCT",
+   "WIND": 40,
+   "PRESSURE": "1003",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Tropical Storm YOLANDA",
+   "JOUR": "15-22 OCT",
+   "WIND": 55,
+   "PRESSURE": "993",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Tropical Storm ZEKE",
+   "JOUR": "25-30 OCT",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1992,
+   "NAME": "Tropical Depression 3",
+   "JOUR": "22-23 NOV",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Hurricane-1 ADRIAN",
+   "JOUR": "11-19 JUN",
+   "WIND": 75,
+   "PRESSURE": "979",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Tropical Storm BEATRIZ",
+   "JOUR": "18-20 JUN",
+   "WIND": 55,
+   "PRESSURE": "995",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Tropical Depression 3",
+   "JOUR": "27 JUN- 2 JUL",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Hurricane-2 CALVIN",
+   "JOUR": "4- 9 JUL",
+   "WIND": 95,
+   "PRESSURE": "966",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Hurricane-4 DORA",
+   "JOUR": "14-20 JUL",
+   "WIND": 115,
+   "PRESSURE": "945",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Hurricane-3 EUGENE",
+   "JOUR": "15-25 JUL",
+   "WIND": 110,
+   "PRESSURE": "948",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Hurricane-4 KEONI",
+   "JOUR": "9-29 AUG",
+   "WIND": 115,
+   "PRESSURE": "0",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Hurricane-4 FERNANDA",
+   "JOUR": "9-19 AUG",
+   "WIND": 125,
+   "PRESSURE": "934",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Hurricane-4 GREG",
+   "JOUR": "15-28 AUG",
+   "WIND": 115,
+   "PRESSURE": "948",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Hurricane-3 HILARY",
+   "JOUR": "17-27 AUG",
+   "WIND": 105,
+   "PRESSURE": "957",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Tropical Storm IRWIN",
+   "JOUR": "21-22 AUG",
+   "WIND": 60,
+   "PRESSURE": "999",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Hurricane-4 JOVA",
+   "JOUR": "29 AUG- 5 SEP",
+   "WIND": 115,
+   "PRESSURE": "948",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Hurricane-4 KENNETH",
+   "JOUR": "5-17 SEP",
+   "WIND": 130,
+   "PRESSURE": "932",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Hurricane-4 LIDIA",
+   "JOUR": "8-14 SEP",
+   "WIND": 130,
+   "PRESSURE": "930",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Tropical Depression 14",
+   "JOUR": "21-26 SEP",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Tropical Storm MAX",
+   "JOUR": "30 SEP- 4 OCT",
+   "WIND": 40,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Tropical Storm NORMA",
+   "JOUR": "2- 6 OCT",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1993,
+   "NAME": "Tropical Depression 17",
+   "JOUR": "11-14 OCT",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Tropical Storm ALETTA",
+   "JOUR": "18-23 JUN",
+   "WIND": 45,
+   "PRESSURE": "999",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Tropical Storm BUD",
+   "JOUR": "27-29 JUN",
+   "WIND": 40,
+   "PRESSURE": "1003",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Hurricane-2 CARLOTTA",
+   "JOUR": "28 JUN- 5 JUL",
+   "WIND": 90,
+   "PRESSURE": "967",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Tropical Storm DANIEL",
+   "JOUR": "8-14 JUL",
+   "WIND": 55,
+   "PRESSURE": "993",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Hurricane-5 EMILIA",
+   "JOUR": "16-25 JUL",
+   "WIND": 140,
+   "PRESSURE": "926",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Tropical Storm FABIO",
+   "JOUR": "19-24 JUL",
+   "WIND": 40,
+   "PRESSURE": "1002",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Hurricane-5 GILMA",
+   "JOUR": "21-31 JUL",
+   "WIND": 140,
+   "PRESSURE": "920",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Hurricane-1 LI",
+   "JOUR": "31 JUL-18 AUG",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Tropical Storm HECTOR",
+   "JOUR": "7- 9 AUG",
+   "WIND": 55,
+   "PRESSURE": "993",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Tropical Depression 1",
+   "JOUR": "9-14 AUG",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Hurricane-1 ILEANA",
+   "JOUR": "10-14 AUG",
+   "WIND": 65,
+   "PRESSURE": "986",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Hurricane-5 JOHN",
+   "JOUR": "11 AUG-10 SEP",
+   "WIND": 150,
+   "PRESSURE": "929",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Tropical Depression 12",
+   "JOUR": "12-15 AUG",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Hurricane-2 KRISTY",
+   "JOUR": "28 AUG- 5 SEP",
+   "WIND": 90,
+   "PRESSURE": "992",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Hurricane-4 LANE",
+   "JOUR": "3-10 SEP",
+   "WIND": 115,
+   "PRESSURE": "948",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Tropical Storm MELE",
+   "JOUR": "6- 9 SEP",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Tropical Storm MIRIAM",
+   "JOUR": "15-21 SEP",
+   "WIND": 40,
+   "PRESSURE": "1002",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Tropical Storm NORMAN",
+   "JOUR": "19-22 SEP",
+   "WIND": 35,
+   "PRESSURE": "1004",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Hurricane-4 OLIVIA",
+   "JOUR": "22-29 SEP",
+   "WIND": 130,
+   "PRESSURE": "923",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Tropical Storm PAUL",
+   "JOUR": "24-30 SEP",
+   "WIND": 40,
+   "PRESSURE": "1003",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Hurricane-2 ROSA",
+   "JOUR": "8-15 OCT",
+   "WIND": 90,
+   "PRESSURE": "974",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1994,
+   "NAME": "Tropical Storm NONA",
+   "JOUR": "21-26 OCT",
+   "WIND": 35,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1995,
+   "NAME": "Tropical Depression 1",
+   "JOUR": "21-23 MAY",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1995,
+   "NAME": "Hurricane-4 ADOLPH",
+   "JOUR": "15-21 JUN",
+   "WIND": 115,
+   "PRESSURE": "948",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1995,
+   "NAME": "Hurricane-4 BARBARA",
+   "JOUR": "7-18 JUL",
+   "WIND": 120,
+   "PRESSURE": "940",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1995,
+   "NAME": "Hurricane-1 COSME",
+   "JOUR": "17-22 JUL",
+   "WIND": 65,
+   "PRESSURE": "985",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1995,
+   "NAME": "Tropical Storm DALILA",
+   "JOUR": "24 JUL- 2 AUG",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1995,
+   "NAME": "Tropical Storm ERICK",
+   "JOUR": "1- 8 AUG",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1995,
+   "NAME": "Hurricane-1 FLOSSIE",
+   "JOUR": "7-14 AUG",
+   "WIND": 70,
+   "PRESSURE": "978",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1995,
+   "NAME": "Tropical Storm GIL",
+   "JOUR": "20-27 AUG",
+   "WIND": 55,
+   "PRESSURE": "993",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1995,
+   "NAME": "Hurricane-2 HENRIETTE",
+   "JOUR": "1- 8 SEP",
+   "WIND": 85,
+   "PRESSURE": "970",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1995,
+   "NAME": "Hurricane-1 ISMAEL",
+   "JOUR": "12-15 SEP",
+   "WIND": 70,
+   "PRESSURE": "983",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1995,
+   "NAME": "Hurricane-4 JULIETTE",
+   "JOUR": "16-26 SEP",
+   "WIND": 130,
+   "PRESSURE": "930",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1996,
+   "NAME": "Tropical Depression 1",
+   "JOUR": "16-20 SEP",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1996,
+   "NAME": "Tropical Depression 2",
+   "JOUR": "15-19 MAY",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1996,
+   "NAME": "Hurricane-2 ALMA",
+   "JOUR": "20-27 JUN",
+   "WIND": 90,
+   "PRESSURE": "969",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1996,
+   "NAME": "Hurricane-1 BORIS",
+   "JOUR": "27 JUN- 1 JUL",
+   "WIND": 80,
+   "PRESSURE": "979",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1996,
+   "NAME": "Tropical Storm CRISTINA",
+   "JOUR": "1- 3 JUL",
+   "WIND": 60,
+   "PRESSURE": "991",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1996,
+   "NAME": "Tropical Depression 6",
+   "JOUR": "4- 6 JUL",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1996,
+   "NAME": "Hurricane-4 DOUGLAS",
+   "JOUR": "29 JUL- 6 AUG",
+   "WIND": 115,
+   "PRESSURE": "946",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1996,
+   "NAME": "Tropical Storm ELIDA",
+   "JOUR": "30 AUG- 6 SEP",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1996,
+   "NAME": "Tropical Depression 1",
+   "JOUR": "16-20 SEP",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1996,
+   "NAME": "Hurricane-3 FAUSTO",
+   "JOUR": "10-14 SEP",
+   "WIND": 105,
+   "PRESSURE": "955",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1996,
+   "NAME": "Tropical Storm GENEVIEVE",
+   "JOUR": "27 SEP- 9 OCT",
+   "WIND": 45,
+   "PRESSURE": "999",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1996,
+   "NAME": "Hurricane-1 HERNAN",
+   "JOUR": "30 SEP- 4 OCT",
+   "WIND": 75,
+   "PRESSURE": "980",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1996,
+   "NAME": "Tropical Depression 12",
+   "JOUR": "7-11 NOV",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Tropical Storm ANDRES",
+   "JOUR": "1- 7 JUN",
+   "WIND": 45,
+   "PRESSURE": "998",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Tropical Storm BLANCA",
+   "JOUR": "9-12 JUN",
+   "WIND": 40,
+   "PRESSURE": "1002",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Tropical Storm CARLOS",
+   "JOUR": "25-28 JUN",
+   "WIND": 45,
+   "PRESSURE": "996",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Tropical Storm CARLOS",
+   "JOUR": "25-28 JUN",
+   "WIND": 45,
+   "PRESSURE": "996",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Tropical Depression 5",
+   "JOUR": "29 JUN- 4 JUL",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Hurricane-1 DOLORES",
+   "JOUR": "5-12 JUL",
+   "WIND": 80,
+   "PRESSURE": "975",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Hurricane-3 ENRIQUE",
+   "JOUR": "12-16 JUL",
+   "WIND": 100,
+   "PRESSURE": "960",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Hurricane-4 FELICIA",
+   "JOUR": "14-22 JUL",
+   "WIND": 115,
+   "PRESSURE": "948",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Tropical Depression 1",
+   "JOUR": "26-27 JUL",
+   "WIND": 25,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Hurricane-5 GUILLERMO",
+   "JOUR": "30 JUL-24 AUG",
+   "WIND": 140,
+   "PRESSURE": "919",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Tropical Storm HILDA",
+   "JOUR": "10-15 AUG",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Tropical Storm IGNACIO",
+   "JOUR": "17-20 AUG",
+   "WIND": 35,
+   "PRESSURE": "1005",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Hurricane-4 JIMENA",
+   "JOUR": "25-30 AUG",
+   "WIND": 120,
+   "PRESSURE": "942",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Hurricane-5 OLIWA",
+   "JOUR": "28 AUG-17 SEP",
+   "WIND": 140,
+   "PRESSURE": "0",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Tropical Storm KEVIN",
+   "JOUR": "3- 7 SEP",
+   "WIND": 50,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Hurricane-5 LINDA",
+   "JOUR": "9-17 SEP",
+   "WIND": 160,
+   "PRESSURE": "902",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Tropical Storm MARTY",
+   "JOUR": "12-16 SEP",
+   "WIND": 40,
+   "PRESSURE": "1002",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Hurricane-4 NORA",
+   "JOUR": "16-26 SEP",
+   "WIND": 115,
+   "PRESSURE": "950",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Tropical Storm OLAF",
+   "JOUR": "26 SEP-12 OCT",
+   "WIND": 60,
+   "PRESSURE": "989",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Tropical Depression 3",
+   "JOUR": "5- 7 OCT",
+   "WIND": 25,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Hurricane-4 PAULINE",
+   "JOUR": "5-10 OCT",
+   "WIND": 115,
+   "PRESSURE": "948",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Tropical Depression 4",
+   "JOUR": "30 OCT- 1 NOV",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Hurricane-2 RICK",
+   "JOUR": "7-10 NOV",
+   "WIND": 85,
+   "PRESSURE": "973",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1997,
+   "NAME": "Hurricane-5 PAKA",
+   "JOUR": "28 NOV-22 DEC",
+   "WIND": 160,
+   "PRESSURE": "0",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Tropical Storm AGATHA",
+   "JOUR": "11-16 JUN",
+   "WIND": 55,
+   "PRESSURE": "993",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Tropical Depression 2",
+   "JOUR": "19-22 JUN",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Hurricane-4 BLAS",
+   "JOUR": "22-30 JUN",
+   "WIND": 120,
+   "PRESSURE": "943",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Tropical Storm CELIA",
+   "JOUR": "17-21 JUL",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Hurricane-3 DARBY",
+   "JOUR": "23 JUL- 1 AUG",
+   "WIND": 100,
+   "PRESSURE": "958",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Hurricane-4 ESTELLE",
+   "JOUR": "29 JUL- 8 AUG",
+   "WIND": 115,
+   "PRESSURE": "948",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Tropical Storm FRANK",
+   "JOUR": "6-10 AUG",
+   "WIND": 40,
+   "PRESSURE": "1001",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Hurricane-3 GEORGETTE",
+   "JOUR": "11-17 AUG",
+   "WIND": 100,
+   "PRESSURE": "960",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Tropical Depression 1",
+   "JOUR": "16-19 AUG",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Hurricane-4 HOWARD",
+   "JOUR": "20-30 AUG",
+   "WIND": 130,
+   "PRESSURE": "932",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Hurricane-1 ISIS",
+   "JOUR": "1- 3 SEP",
+   "WIND": 65,
+   "PRESSURE": "988",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Tropical Storm JAVIER",
+   "JOUR": "6-14 SEP",
+   "WIND": 50,
+   "PRESSURE": "995",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Tropical Depression 12",
+   "JOUR": "1- 3 OCT",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Hurricane-1 KAY",
+   "JOUR": "13-17 OCT",
+   "WIND": 65,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Hurricane-3 LESTER",
+   "JOUR": "15-26 OCT",
+   "WIND": 100,
+   "PRESSURE": "965",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1998,
+   "NAME": "Hurricane-1 MADELINE",
+   "JOUR": "16-20 OCT",
+   "WIND": 75,
+   "PRESSURE": "979",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1999,
+   "NAME": "Hurricane-2 ADRIAN",
+   "JOUR": "18-22 JUN",
+   "WIND": 85,
+   "PRESSURE": "973",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1999,
+   "NAME": "Hurricane-3 BEATRIZ",
+   "JOUR": "9-17 JUL",
+   "WIND": 105,
+   "PRESSURE": "955",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1999,
+   "NAME": "Tropical Depression 3",
+   "JOUR": "14-15 JUL",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1999,
+   "NAME": "Tropical Depression 4",
+   "JOUR": "23-25 JUL",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1999,
+   "NAME": "Tropical Storm CALVIN",
+   "JOUR": "25-27 JUL",
+   "WIND": 35,
+   "PRESSURE": "1005",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1999,
+   "NAME": "Tropical Depression 6",
+   "JOUR": "26-28 JUL",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1999,
+   "NAME": "Hurricane-4 DORA",
+   "JOUR": "6-23 AUG",
+   "WIND": 120,
+   "PRESSURE": "943",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1999,
+   "NAME": "Hurricane-2 EUGENE",
+   "JOUR": "6-15 AUG",
+   "WIND": 95,
+   "PRESSURE": "964",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 1999,
+   "NAME": "Tropical Depression 9",
+   "JOUR": "13-15 AUG",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1999,
+   "NAME": "Tropical Storm FERNANDA",
+   "JOUR": "17-22 AUG",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1999,
+   "NAME": "Tropical Depression 11",
+   "JOUR": "23-24 AUG",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1999,
+   "NAME": "Hurricane-1 GREG",
+   "JOUR": "5- 9 SEP",
+   "WIND": 65,
+   "PRESSURE": "986",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1999,
+   "NAME": "Hurricane-1 HILARY",
+   "JOUR": "17-21 SEP",
+   "WIND": 65,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1999,
+   "NAME": "Tropical Storm IRWIN",
+   "JOUR": "8-11 OCT",
+   "WIND": 50,
+   "PRESSURE": "996",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Hurricane-2 ALETTA",
+   "JOUR": "22-28 MAY",
+   "WIND": 90,
+   "PRESSURE": "970",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Storm BUD",
+   "JOUR": "13-17 JUN",
+   "WIND": 45,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Hurricane-4 CARLOTTA",
+   "JOUR": "18-25 JUN",
+   "WIND": 135,
+   "PRESSURE": "932",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Depression 4",
+   "JOUR": "6- 7 JUL",
+   "WIND": 25,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Storm UPANA",
+   "JOUR": "20-24 JUL",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Depression 5",
+   "JOUR": "22-23 JUL",
+   "WIND": 30,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Hurricane-3 DANIEL",
+   "JOUR": "23 JUL- 5 AUG",
+   "WIND": 110,
+   "PRESSURE": "954",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Storm EMILIA",
+   "JOUR": "26-30 JUL",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Storm FABIO",
+   "JOUR": "3- 8 AUG",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Hurricane-1 GILMA",
+   "JOUR": "5-11 AUG",
+   "WIND": 70,
+   "PRESSURE": "984",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Hurricane-1 HECTOR",
+   "JOUR": "10-16 AUG",
+   "WIND": 70,
+   "PRESSURE": "983",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Storm ILEANA",
+   "JOUR": "13-17 AUG",
+   "WIND": 60,
+   "PRESSURE": "991",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Storm WENE",
+   "JOUR": "16-17 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Storm JOHN",
+   "JOUR": "28 AUG- 1 SEP",
+   "WIND": 60,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Storm KRISTY",
+   "JOUR": "31 AUG- 3 SEP",
+   "WIND": 35,
+   "PRESSURE": "1004",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Hurricane-2 LANE",
+   "JOUR": "5-14 SEP",
+   "WIND": 85,
+   "PRESSURE": "967",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Storm MIRIAM",
+   "JOUR": "15-17 SEP",
+   "WIND": 35,
+   "PRESSURE": "1004",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Storm NORMAN",
+   "JOUR": "20-22 SEP",
+   "WIND": 45,
+   "PRESSURE": "998",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Storm OLIVIA",
+   "JOUR": "2-10 OCT",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Storm PAUL",
+   "JOUR": "25-29 OCT",
+   "WIND": 40,
+   "PRESSURE": "1003",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2000,
+   "NAME": "Tropical Storm ROSA",
+   "JOUR": "3- 8 NOV",
+   "WIND": 55,
+   "PRESSURE": "993",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Hurricane-4 ADOLPH",
+   "JOUR": "25 MAY- 1 JUN",
+   "WIND": 125,
+   "PRESSURE": "940",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Tropical Storm BARBARA",
+   "JOUR": "20-26 JUN",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Tropical Storm COSME",
+   "JOUR": "13-15 JUL",
+   "WIND": 40,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Tropical Storm ERICK",
+   "JOUR": "20-24 JUL",
+   "WIND": 35,
+   "PRESSURE": "1001",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Hurricane-1 DALILA",
+   "JOUR": "21-28 JUL",
+   "WIND": 65,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Tropical Depression 6",
+   "JOUR": "22-24 AUG",
+   "WIND": 30,
+   "PRESSURE": "1007",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Hurricane-2 FLOSSIE",
+   "JOUR": "26 AUG- 2 SEP",
+   "WIND": 90,
+   "PRESSURE": "972",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Hurricane-2 GIL",
+   "JOUR": "4- 9 SEP",
+   "WIND": 85,
+   "PRESSURE": "975",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Tropical Storm HENRIETTE",
+   "JOUR": "4- 8 SEP",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Tropical Depression 1",
+   "JOUR": "10-11 SEP",
+   "WIND": 30,
+   "PRESSURE": "1005",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Tropical Storm IVO",
+   "JOUR": "10-15 SEP",
+   "WIND": 45,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Hurricane-4 JULIETTE",
+   "JOUR": "21 SEP- 3 OCT",
+   "WIND": 125,
+   "PRESSURE": "923",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Hurricane-1 KIKO",
+   "JOUR": "21-25 SEP",
+   "WIND": 65,
+   "PRESSURE": "990",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Tropical Storm 2",
+   "JOUR": "22-25 SEP",
+   "WIND": 35,
+   "PRESSURE": "1008",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Tropical Storm LORENA",
+   "JOUR": "2- 4 OCT",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Tropical Depression 14",
+   "JOUR": "3- 4 OCT",
+   "WIND": 30,
+   "PRESSURE": "1008",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Tropical Storm MANUEL",
+   "JOUR": "10-18 OCT",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Hurricane-1 NARDA",
+   "JOUR": "20-25 OCT",
+   "WIND": 75,
+   "PRESSURE": "980",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2001,
+   "NAME": "Hurricane-1 OCTAVE",
+   "JOUR": "31 OCT- 3 NOV",
+   "WIND": 75,
+   "PRESSURE": "980",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Hurricane-3 ALMA",
+   "JOUR": "24 MAY- 1 JUN",
+   "WIND": 100,
+   "PRESSURE": "960",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Tropical Storm BORIS",
+   "JOUR": "8-12 JUN",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Tropical Depression 3",
+   "JOUR": "27-29 JUN",
+   "WIND": 30,
+   "PRESSURE": "1006",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Tropical Storm CRISTINA",
+   "JOUR": "9-16 JUL",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Hurricane-2 DOUGLAS",
+   "JOUR": "20-27 JUL",
+   "WIND": 90,
+   "PRESSURE": "970",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Hurricane-5 ELIDA",
+   "JOUR": "23-31 JUL",
+   "WIND": 140,
+   "PRESSURE": "921",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Tropical Depression 7",
+   "JOUR": "6- 8 AUG",
+   "WIND": 30,
+   "PRESSURE": "1008",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Hurricane-4 FAUSTO",
+   "JOUR": "21 AUG- 3 SEP",
+   "WIND": 125,
+   "PRESSURE": "936",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Tropical Storm ALIKA",
+   "JOUR": "21-28 AUG",
+   "WIND": 55,
+   "PRESSURE": "995",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Hurricane-3 ELE",
+   "JOUR": "25-30 AUG",
+   "WIND": 110,
+   "PRESSURE": "945",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Tropical Storm GENEVIEVE",
+   "JOUR": "26 AUG- 1 SEP",
+   "WIND": 60,
+   "PRESSURE": "989",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Hurricane-5 HERNAN",
+   "JOUR": "30 AUG- 6 SEP",
+   "WIND": 140,
+   "PRESSURE": "921",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Tropical Depression 11",
+   "JOUR": "5-10 SEP",
+   "WIND": 30,
+   "PRESSURE": "1006",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Tropical Storm ISELLE",
+   "JOUR": "15-20 SEP",
+   "WIND": 60,
+   "PRESSURE": "990",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Tropical Storm JULIO",
+   "JOUR": "25-26 SEP",
+   "WIND": 40,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Hurricane-5 KENNA",
+   "JOUR": "22-26 OCT",
+   "WIND": 145,
+   "PRESSURE": "913",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Tropical Storm LOWELL",
+   "JOUR": "22-31 OCT",
+   "WIND": 45,
+   "PRESSURE": "1002",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Hurricane-1 HUKO",
+   "JOUR": "23 OCT- 3 NOV",
+   "WIND": 75,
+   "PRESSURE": "980",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2002,
+   "NAME": "Tropical Depression 16",
+   "JOUR": "14-16 NOV",
+   "WIND": 30,
+   "PRESSURE": "1006",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Tropical Storm ANDRES",
+   "JOUR": "19-26 MAY",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Tropical Storm BLANCA",
+   "JOUR": "17-24 JUN",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Tropical Storm CARLOS",
+   "JOUR": "26-28 JUN",
+   "WIND": 55,
+   "PRESSURE": "996",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Tropical Storm DOLORES",
+   "JOUR": "6- 8 JUL",
+   "WIND": 35,
+   "PRESSURE": "1005",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Tropical Storm ENRIQUE",
+   "JOUR": "10-16 JUL",
+   "WIND": 55,
+   "PRESSURE": "993",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Tropical Storm FELICIA",
+   "JOUR": "17-24 JUL",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Tropical Storm GUILLERMO",
+   "JOUR": "7-13 AUG",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Tropical Storm HILDA",
+   "JOUR": "9-13 AUG",
+   "WIND": 35,
+   "PRESSURE": "1004",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Tropical Depression 1",
+   "JOUR": "11-17 AUG",
+   "WIND": 30,
+   "PRESSURE": "1009",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Hurricane-2 IGNACIO",
+   "JOUR": "22-27 AUG",
+   "WIND": 90,
+   "PRESSURE": "970",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Hurricane-2 JIMENA",
+   "JOUR": "28 AUG- 5 SEP",
+   "WIND": 90,
+   "PRESSURE": "970",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Tropical Storm KEVIN",
+   "JOUR": "3-10 SEP",
+   "WIND": 35,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Hurricane-1 LINDA",
+   "JOUR": "13-23 SEP",
+   "WIND": 65,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Hurricane-2 MARTY",
+   "JOUR": "18-26 SEP",
+   "WIND": 85,
+   "PRESSURE": "970",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Hurricane-2 NORA",
+   "JOUR": "1- 9 OCT",
+   "WIND": 90,
+   "PRESSURE": "969",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Hurricane-1 OLAF",
+   "JOUR": "3- 8 OCT",
+   "WIND": 65,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2003,
+   "NAME": "Hurricane-1 PATRICIA",
+   "JOUR": "20-26 OCT",
+   "WIND": 70,
+   "PRESSURE": "984",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Tropical Storm AGATHA",
+   "JOUR": "22-26 MAY",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Tropical Depression 2",
+   "JOUR": "2- 5 JUL",
+   "WIND": 30,
+   "PRESSURE": "1007",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Tropical Depression 1",
+   "JOUR": "4- 6 JUL",
+   "WIND": 25,
+   "PRESSURE": "1007",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Tropical Storm BLAS",
+   "JOUR": "12-19 JUL",
+   "WIND": 55,
+   "PRESSURE": "991",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Hurricane-1 CELIA",
+   "JOUR": "19-26 JUL",
+   "WIND": 75,
+   "PRESSURE": "981",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Hurricane-3 DARBY",
+   "JOUR": "26 JUL- 1 AUG",
+   "WIND": 105,
+   "PRESSURE": "957",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Tropical Depression 6",
+   "JOUR": "1- 2 AUG",
+   "WIND": 25,
+   "PRESSURE": "1008",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Tropical Storm ESTELLE",
+   "JOUR": "19-25 AUG",
+   "WIND": 60,
+   "PRESSURE": "989",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Hurricane-1 FRANK",
+   "JOUR": "23-27 AUG",
+   "WIND": 75,
+   "PRESSURE": "979",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Tropical Depression 9",
+   "JOUR": "23-28 AUG",
+   "WIND": 30,
+   "PRESSURE": "1005",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Tropical Storm GEORGETTE",
+   "JOUR": "26 AUG- 3 SEP",
+   "WIND": 55,
+   "PRESSURE": "995",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Hurricane-4 HOWARD",
+   "JOUR": "30 AUG-10 SEP",
+   "WIND": 120,
+   "PRESSURE": "943",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Hurricane-1 ISIS",
+   "JOUR": "8-21 SEP",
+   "WIND": 65,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Hurricane-4 JAVIER",
+   "JOUR": "10-20 SEP",
+   "WIND": 130,
+   "PRESSURE": "930",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Tropical Storm KAY",
+   "JOUR": "4- 7 OCT",
+   "WIND": 40,
+   "PRESSURE": "1004",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Tropical Storm LESTER",
+   "JOUR": "11-13 OCT",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2004,
+   "NAME": "Tropical Depression 16",
+   "JOUR": "25-26 OCT",
+   "WIND": 30,
+   "PRESSURE": "1004",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Hurricane-1 ADRIAN",
+   "JOUR": "17-21 MAY",
+   "WIND": 70,
+   "PRESSURE": "982",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Tropical Storm BEATRIZ",
+   "JOUR": "21-26 JUN",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Tropical Storm CALVIN",
+   "JOUR": "26 JUN- 3 JUL",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Tropical Storm DORA",
+   "JOUR": "4- 6 JUL",
+   "WIND": 40,
+   "PRESSURE": "1002",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Tropical Storm EUGENE",
+   "JOUR": "18-21 JUL",
+   "WIND": 60,
+   "PRESSURE": "989",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Tropical Depression ONE",
+   "JOUR": "2- 5 AUG",
+   "WIND": 25,
+   "PRESSURE": "1008",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Hurricane-1 FERNANDA",
+   "JOUR": "9-17 AUG",
+   "WIND": 75,
+   "PRESSURE": "978",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Tropical Storm GREG",
+   "JOUR": "11-15 AUG",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Hurricane-2 HILARY",
+   "JOUR": "19-28 AUG",
+   "WIND": 90,
+   "PRESSURE": "970",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Tropical Storm IRWIN",
+   "JOUR": "25 AUG- 2 SEP",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Hurricane-3 JOVA",
+   "JOUR": "12-25 SEP",
+   "WIND": 110,
+   "PRESSURE": "951",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Hurricane-4 KENNETH",
+   "JOUR": "14-30 SEP",
+   "WIND": 115,
+   "PRESSURE": "947",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Tropical Storm LIDIA",
+   "JOUR": "17-19 SEP",
+   "WIND": 35,
+   "PRESSURE": "1005",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Hurricane-1 MAX",
+   "JOUR": "17-22 SEP",
+   "WIND": 70,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Tropical Storm NORMA",
+   "JOUR": "23 SEP- 1 OCT",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Hurricane-2 OTIS",
+   "JOUR": "28 SEP- 5 OCT",
+   "WIND": 90,
+   "PRESSURE": "970",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2005,
+   "NAME": "Tropical Depression SIXTEE",
+   "JOUR": "N 15-21 OCT",
+   "WIND": 3,
+   "PRESSURE": "0 100",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Tropical Storm ALETTA",
+   "JOUR": "27-31 MAY",
+   "WIND": 40,
+   "PRESSURE": "1002",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Tropical Depression TWO",
+   "JOUR": "14-23 SEP",
+   "WIND": 30,
+   "PRESSURE": "1007",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Hurricane-3 BUD",
+   "JOUR": "11-17 JUL",
+   "WIND": 110,
+   "PRESSURE": "953",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Hurricane-1 CARLOTTA",
+   "JOUR": "12-20 JUL",
+   "WIND": 75,
+   "PRESSURE": "981",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Hurricane-4 DANIEL",
+   "JOUR": "16-28 JUL",
+   "WIND": 130,
+   "PRESSURE": "933",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Tropical Storm EMILIA",
+   "JOUR": "21-31 JUL",
+   "WIND": 55,
+   "PRESSURE": "990",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Tropical Storm FABIO",
+   "JOUR": "31 JUL- 5 AUG",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Tropical Storm GILMA",
+   "JOUR": "1- 5 AUG",
+   "WIND": 35,
+   "PRESSURE": "1004",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Hurricane-2 HECTOR",
+   "JOUR": "15-24 AUG",
+   "WIND": 95,
+   "PRESSURE": "966",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Hurricane-5 IOKE",
+   "JOUR": "17 AUG- 6 SEP",
+   "WIND": 140,
+   "PRESSURE": "900",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Hurricane-3 ILEANA",
+   "JOUR": "21-29 AUG",
+   "WIND": 105,
+   "PRESSURE": "955",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Hurricane-4 JOHN",
+   "JOUR": "28 AUG- 4 SEP",
+   "WIND": 115,
+   "PRESSURE": "948",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Hurricane-1 KRISTY",
+   "JOUR": "30 AUG- 9 SEP",
+   "WIND": 70,
+   "PRESSURE": "985",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Hurricane-3 LANE",
+   "JOUR": "13-17 SEP",
+   "WIND": 110,
+   "PRESSURE": "952",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Tropical Storm MIRIAM",
+   "JOUR": "16-21 SEP",
+   "WIND": 40,
+   "PRESSURE": "999",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Tropical Depression TWO",
+   "JOUR": "14-23 SEP",
+   "WIND": 30,
+   "PRESSURE": "1007",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Tropical Depression THREE",
+   "JOUR": "25-27 SEP",
+   "WIND": 30,
+   "PRESSURE": "1008",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Tropical Storm NORMAN",
+   "JOUR": "9-15 OCT",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Tropical Storm OLIVIA",
+   "JOUR": "9-14 OCT",
+   "WIND": 40,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Tropical Depression FOUR",
+   "JOUR": "7-16 OCT",
+   "WIND": 30,
+   "PRESSURE": "1007",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Hurricane-2 PAUL",
+   "JOUR": "21-26 OCT",
+   "WIND": 90,
+   "PRESSURE": "970",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Tropical Depression EIGHTE",
+   "JOUR": "EN 26-29 OCT",
+   "WIND": null,
+   "PRESSURE": "30 10",
+   "CATEGORIE": "7"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Tropical Storm ROSA",
+   "JOUR": "8-10 NOV",
+   "WIND": 35,
+   "PRESSURE": "1002",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2006,
+   "NAME": "Tropical Depression TWENTY",
+   "JOUR": "11-11 NOV",
+   "WIND": 30,
+   "PRESSURE": "1007",
+   "CATEGORIE": ""
+ },
+ {
+   "Date": 2006,
+   "NAME": "Hurricane-2 SERGIO",
+   "JOUR": "13-20 NOV",
+   "WIND": 95,
+   "PRESSURE": "965",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Tropical Storm ALVIN",
+   "JOUR": "27 MAY- 6 JUN",
+   "WIND": 35,
+   "PRESSURE": "1003",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Tropical Storm BARBARA",
+   "JOUR": "29 MAY- 2 JUN",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Tropical Depression THREE",
+   "JOUR": "11-15 JUN",
+   "WIND": 30,
+   "PRESSURE": "1004",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Tropical Depression FOUR",
+   "JOUR": "9-11 JUL",
+   "WIND": 30,
+   "PRESSURE": "1006",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Tropical Depression FIVE",
+   "JOUR": "14-16 JUL",
+   "WIND": 30,
+   "PRESSURE": "1006",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Hurricane-1 COSME",
+   "JOUR": "14-24 JUL",
+   "WIND": 65,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Tropical Storm DALILA",
+   "JOUR": "22-30 JUL",
+   "WIND": 50,
+   "PRESSURE": "995",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Tropical Storm ERICK",
+   "JOUR": "31 JUL- 2 AUG",
+   "WIND": 35,
+   "PRESSURE": "1004",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Hurricane-4 FLOSSIE",
+   "JOUR": "8-16 AUG",
+   "WIND": 120,
+   "PRESSURE": "949",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Tropical Storm GIL",
+   "JOUR": "29 AUG- 3 SEP",
+   "WIND": 40,
+   "PRESSURE": "1001",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Hurricane-1 HENRIETTE",
+   "JOUR": "30 AUG- 6 SEP",
+   "WIND": 75,
+   "PRESSURE": "972",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Hurricane-1 IVO",
+   "JOUR": "18-25 SEP",
+   "WIND": 70,
+   "PRESSURE": "984",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Tropical Depression THIRTE",
+   "JOUR": "EN 19-25 SEP",
+   "WIND": null,
+   "PRESSURE": "30 10",
+   "CATEGORIE": "7"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Tropical Storm JULIETTE",
+   "JOUR": "29 SEP- 5 OCT",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2007,
+   "NAME": "Tropical Storm KIKO",
+   "JOUR": "15-27 OCT",
+   "WIND": 60,
+   "PRESSURE": "991",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Tropical Storm ALMA",
+   "JOUR": "29-30 MAY",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Hurricane-1 BORIS",
+   "JOUR": "27 JUN- 6 JUL",
+   "WIND": 70,
+   "PRESSURE": "985",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Tropical Storm CRISTINA",
+   "JOUR": "27 JUN- 3 JUL",
+   "WIND": 45,
+   "PRESSURE": "999",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Tropical Storm DOUGLAS",
+   "JOUR": "1- 6 JUL",
+   "WIND": 35,
+   "PRESSURE": "1003",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Tropical Depression FIVE",
+   "JOUR": "5- 7 JUL",
+   "WIND": 30,
+   "PRESSURE": "1005",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Hurricane-2 ELIDA",
+   "JOUR": "11-21 JUL",
+   "WIND": 90,
+   "PRESSURE": "970",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Hurricane-1 FAUSTO",
+   "JOUR": "16-24 JUL",
+   "WIND": 80,
+   "PRESSURE": "977",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Hurricane-1 GENEVIEVE",
+   "JOUR": "21-31 JUL",
+   "WIND": 65,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Hurricane-3 HERNAN",
+   "JOUR": "6-16 AUG",
+   "WIND": 105,
+   "PRESSURE": "956",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Tropical Storm KIKA",
+   "JOUR": "4-16 AUG",
+   "WIND": 35,
+   "PRESSURE": "1007",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Tropical Storm ISELLE",
+   "JOUR": "13-23 AUG",
+   "WIND": 45,
+   "PRESSURE": "999",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Tropical Storm JULIO",
+   "JOUR": "23-27 AUG",
+   "WIND": 45,
+   "PRESSURE": "998",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Tropical Storm KARINA",
+   "JOUR": "2- 3 SEP",
+   "WIND": 35,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Tropical Storm LOWELL",
+   "JOUR": "6-11 SEP",
+   "WIND": 45,
+   "PRESSURE": "998",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Hurricane-1 MARIE",
+   "JOUR": "1-19 OCT",
+   "WIND": 70,
+   "PRESSURE": "984",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Hurricane-4 NORBERT",
+   "JOUR": "4-12 OCT",
+   "WIND": 115,
+   "PRESSURE": "945",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Tropical Storm ODILE",
+   "JOUR": "8-13 OCT",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Tropical Depression SEVENT",
+   "JOUR": "EEN 23-27 OCT",
+   "WIND": null,
+   "PRESSURE": "30 1",
+   "CATEGORIE": "8"
+ },
+ {
+   "Date": 2008,
+   "NAME": "Tropical Storm POLO",
+   "JOUR": "2- 5 NOV",
+   "WIND": 40,
+   "PRESSURE": "1003",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Depression ONE",
+   "JOUR": "17-19 JUN",
+   "WIND": 30,
+   "PRESSURE": "1003",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Hurricane-1 ANDRES",
+   "JOUR": "21-24 JUN",
+   "WIND": 70,
+   "PRESSURE": "984",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Storm BLANCA",
+   "JOUR": "6-12 JUL",
+   "WIND": 45,
+   "PRESSURE": "998",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Hurricane-2 CARLOS",
+   "JOUR": "10-16 JUL",
+   "WIND": 90,
+   "PRESSURE": "971",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Storm DOLORES",
+   "JOUR": "14-20 JUL",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Storm LANA",
+   "JOUR": "30 JUL- 3 AUG",
+   "WIND": 55,
+   "PRESSURE": "995",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Storm ENRIQUE",
+   "JOUR": "3- 8 AUG",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Hurricane-4 FELICIA",
+   "JOUR": "3-11 AUG",
+   "WIND": 125,
+   "PRESSURE": "935",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Depression NINE",
+   "JOUR": "9-15 AUG",
+   "WIND": 30,
+   "PRESSURE": "1006",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Storm MAKA",
+   "JOUR": "8-18 AUG",
+   "WIND": 45,
+   "PRESSURE": "992",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Hurricane-3 GUILLERMO",
+   "JOUR": "12-23 AUG",
+   "WIND": 110,
+   "PRESSURE": "954",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Storm HILDA",
+   "JOUR": "21-31 AUG",
+   "WIND": 55,
+   "PRESSURE": "995",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Storm IGNACIO",
+   "JOUR": "24-28 AUG",
+   "WIND": 45,
+   "PRESSURE": "999",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Hurricane-4 JIMENA",
+   "JOUR": "28 AUG- 5 SEP",
+   "WIND": 135,
+   "PRESSURE": "931",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Depression TWO",
+   "JOUR": "26 AUG- 2 SEP",
+   "WIND": 30,
+   "PRESSURE": "1007",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Storm KEVIN",
+   "JOUR": "27 AUG- 6 SEP",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Hurricane-1 LINDA",
+   "JOUR": "6-15 SEP",
+   "WIND": 70,
+   "PRESSURE": "985",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Storm MARTY",
+   "JOUR": "15-22 SEP",
+   "WIND": 40,
+   "PRESSURE": "1002",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Storm NORA",
+   "JOUR": "22-29 SEP",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Storm OLAF",
+   "JOUR": "1- 4 OCT",
+   "WIND": 40,
+   "PRESSURE": "996",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Tropical Storm PATRICIA",
+   "JOUR": "11-15 OCT",
+   "WIND": 50,
+   "PRESSURE": "996",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Hurricane-5 RICK",
+   "JOUR": "15-21 OCT",
+   "WIND": 155,
+   "PRESSURE": "906",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 2009,
+   "NAME": "Hurricane-3 NEKI",
+   "JOUR": "18-27 OCT",
+   "WIND": 110,
+   "PRESSURE": "950",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2010,
+   "NAME": "Tropical Storm AGATHA",
+   "JOUR": "28-30 MAY",
+   "WIND": 40,
+   "PRESSURE": "1001",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2010,
+   "NAME": "Tropical Depression TWO",
+   "JOUR": "16-17 JUN",
+   "WIND": 30,
+   "PRESSURE": "1007",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2010,
+   "NAME": "Tropical Storm BLAS",
+   "JOUR": "15-23 JUN",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2010,
+   "NAME": "Hurricane-5 CELIA",
+   "JOUR": "18-30 JUN",
+   "WIND": 140,
+   "PRESSURE": "921",
+   "CATEGORIE": "5"
+ },
+ {
+   "Date": 2010,
+   "NAME": "Hurricane-3 DARBY",
+   "JOUR": "20-29 JUN",
+   "WIND": 105,
+   "PRESSURE": "959",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2010,
+   "NAME": "Tropical Depression SIX",
+   "JOUR": "14-18 JUL",
+   "WIND": 30,
+   "PRESSURE": "1006",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2010,
+   "NAME": "Tropical Storm ESTELLE",
+   "JOUR": "4-10 AUG",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2010,
+   "NAME": "Tropical Depression EIGHT",
+   "JOUR": "20-23 AUG",
+   "WIND": 30,
+   "PRESSURE": "1003",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2010,
+   "NAME": "Hurricane-1 FRANK",
+   "JOUR": "21-29 AUG",
+   "WIND": 80,
+   "PRESSURE": "978",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2010,
+   "NAME": "Tropical Depression TEN",
+   "JOUR": "3- 5 SEP",
+   "WIND": 30,
+   "PRESSURE": "1003",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2010,
+   "NAME": "Tropical Depression ELEVEN",
+   "JOUR": "3- 4 SEP",
+   "WIND": 30,
+   "PRESSURE": "1004",
+   "CATEGORIE": ""
+ },
+ {
+   "Date": 2010,
+   "NAME": "Tropical Storm GEORGETTE",
+   "JOUR": "20-23 SEP",
+   "WIND": 35,
+   "PRESSURE": "999",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2010,
+   "NAME": "Subtropical Storm OMEKA",
+   "JOUR": "16-22 DEC",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2011,
+   "NAME": "Hurricane-4 ADRIAN",
+   "JOUR": "7-14 JUN",
+   "WIND": 120,
+   "PRESSURE": "944",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2011,
+   "NAME": "Hurricane-1 BEATRIZ",
+   "JOUR": "18-22 JUN",
+   "WIND": 80,
+   "PRESSURE": "977",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2011,
+   "NAME": "Hurricane-1 CALVIN",
+   "JOUR": "7-14 JUL",
+   "WIND": 70,
+   "PRESSURE": "984",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2011,
+   "NAME": "Hurricane-4 DORA",
+   "JOUR": "18-26 JUL",
+   "WIND": 135,
+   "PRESSURE": "929",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2011,
+   "NAME": "Hurricane-4 EUGENE",
+   "JOUR": "30 JUL-10 AUG",
+   "WIND": 120,
+   "PRESSURE": "942",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2011,
+   "NAME": "Tropical Storm FERNANDA",
+   "JOUR": "14-21 AUG",
+   "WIND": 60,
+   "PRESSURE": "992",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2011,
+   "NAME": "Hurricane-1 GREG",
+   "JOUR": "16-23 AUG",
+   "WIND": 75,
+   "PRESSURE": "979",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2011,
+   "NAME": "Tropical Depression EIGHT",
+   "JOUR": "31 AUG- 2 SEP",
+   "WIND": 30,
+   "PRESSURE": "1002",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2011,
+   "NAME": "Hurricane-4 HILARY",
+   "JOUR": "21 SEP- 3 OCT",
+   "WIND": 125,
+   "PRESSURE": "942",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2011,
+   "NAME": "Hurricane-3 JOVA",
+   "JOUR": "5-12 OCT",
+   "WIND": 110,
+   "PRESSURE": "955",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2011,
+   "NAME": "Hurricane-2 IRWIN",
+   "JOUR": "4-18 OCT",
+   "WIND": 85,
+   "PRESSURE": "976",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2011,
+   "NAME": "Low TWELVE",
+   "JOUR": "6-13 OCT",
+   "WIND": 30,
+   "PRESSURE": "1004",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2011,
+   "NAME": "Hurricane-4 KENNETH",
+   "JOUR": "18-26 NOV",
+   "WIND": 125,
+   "PRESSURE": "940",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Tropical Storm ALETTA",
+   "JOUR": "13-20 MAY",
+   "WIND": 45,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Hurricane-3 BUD",
+   "JOUR": "20-26 MAY",
+   "WIND": 100,
+   "PRESSURE": "961",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Hurricane-2 CARLOTTA",
+   "JOUR": "13-17 JUN",
+   "WIND": 95,
+   "PRESSURE": "973",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Hurricane-3 DANIEL",
+   "JOUR": "4-14 JUL",
+   "WIND": 100,
+   "PRESSURE": "961",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Hurricane-4 EMILIA",
+   "JOUR": "7-18 JUL",
+   "WIND": 120,
+   "PRESSURE": "945",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Hurricane-2 FABIO",
+   "JOUR": "10-20 JUL",
+   "WIND": 95,
+   "PRESSURE": "966",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Hurricane-1 GILMA",
+   "JOUR": "6-14 AUG",
+   "WIND": 70,
+   "PRESSURE": "984",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Tropical Storm HECTOR",
+   "JOUR": "11-20 AUG",
+   "WIND": 45,
+   "PRESSURE": "995",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Hurricane-1 ILEANA",
+   "JOUR": "25 AUG- 6 SEP",
+   "WIND": 75,
+   "PRESSURE": "978",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Tropical Storm JOHN",
+   "JOUR": "2- 7 SEP",
+   "WIND": 40,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Tropical Storm KRISTY",
+   "JOUR": "11-19 SEP",
+   "WIND": 50,
+   "PRESSURE": "998",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Hurricane-1 LANE",
+   "JOUR": "15-20 SEP",
+   "WIND": 75,
+   "PRESSURE": "985",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Hurricane-3 MIRIAM",
+   "JOUR": "22 SEP- 2 OCT",
+   "WIND": 105,
+   "PRESSURE": "959",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Tropical Storm NORMAN",
+   "JOUR": "28-30 SEP",
+   "WIND": 45,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Tropical Storm OLIVIA",
+   "JOUR": "6-10 OCT",
+   "WIND": 50,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Hurricane-3 PAUL",
+   "JOUR": "13-18 OCT",
+   "WIND": 105,
+   "PRESSURE": "959",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2012,
+   "NAME": "Tropical Storm ROSA",
+   "JOUR": "29 OCT- 5 NOV",
+   "WIND": 45,
+   "PRESSURE": "1001",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Tropical Storm ALVIN",
+   "JOUR": "13-17 MAY",
+   "WIND": 50,
+   "PRESSURE": "1000",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Hurricane-1 BARBARA",
+   "JOUR": "28-30 MAY",
+   "WIND": 70,
+   "PRESSURE": "983",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Hurricane-1 COSME",
+   "JOUR": "23-30 JUN",
+   "WIND": 75,
+   "PRESSURE": "980",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Hurricane-1 DALILA",
+   "JOUR": "28 JUN- 8 JUL",
+   "WIND": 70,
+   "PRESSURE": "984",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Hurricane-1 ERICK",
+   "JOUR": "4- 9 JUL",
+   "WIND": 70,
+   "PRESSURE": "983",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Tropical Storm FLOSSIE",
+   "JOUR": "25-30 JUL",
+   "WIND": 60,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Hurricane-1 GIL",
+   "JOUR": "30 JUL- 6 AUG",
+   "WIND": 75,
+   "PRESSURE": "985",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Hurricane-2 HENRIETTE",
+   "JOUR": "2-12 AUG",
+   "WIND": 90,
+   "PRESSURE": "976",
+   "CATEGORIE": "2"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Hurricane-1 PEWA",
+   "JOUR": "15-25 AUG",
+   "WIND": 65,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Tropical Storm UNALA",
+   "JOUR": "12-19 AUG",
+   "WIND": 35,
+   "PRESSURE": "1005",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Tropical Depression THREE",
+   "JOUR": "9-21 AUG",
+   "WIND": 30,
+   "PRESSURE": "1007",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Tropical Storm IVO",
+   "JOUR": "20-27 AUG",
+   "WIND": 40,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Tropical Storm JULIETTE",
+   "JOUR": "28-30 AUG",
+   "WIND": 55,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Hurricane-1 KIKO",
+   "JOUR": "29 AUG- 4 SEP",
+   "WIND": 65,
+   "PRESSURE": "989",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Tropical Storm LORENA",
+   "JOUR": "4- 9 SEP",
+   "WIND": 45,
+   "PRESSURE": "1002",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Hurricane-1 MANUEL",
+   "JOUR": "13-19 SEP",
+   "WIND": 65,
+   "PRESSURE": "983",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Tropical Storm NARDA",
+   "JOUR": "6-12 OCT",
+   "WIND": 55,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Tropical Storm OCTAVE",
+   "JOUR": "12-16 OCT",
+   "WIND": 55,
+   "PRESSURE": "994",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Tropical Storm PRISCILLA",
+   "JOUR": "13-18 OCT",
+   "WIND": 40,
+   "PRESSURE": "1001",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Hurricane-3 RAYMOND",
+   "JOUR": "19 OCT- 1 NOV",
+   "WIND": 110,
+   "PRESSURE": "951",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 2013,
+   "NAME": "Tropical Storm SONIA",
+   "JOUR": "1- 4 NOV",
+   "WIND": 40,
+   "PRESSURE": "1002",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1960,
+   "NAME": "Tropical Storm ANNETTE",
+   "JOUR": "9-12 JUN",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1960,
+   "NAME": "Tropical Storm BONNY",
+   "JOUR": "22-26 JUN",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1960,
+   "NAME": "Hurricane-1 CELESTE",
+   "JOUR": "20-22 JUL",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1960,
+   "NAME": "Hurricane-1 DIANA",
+   "JOUR": "17-20 AUG",
+   "WIND": 75,
+   "PRESSURE": "987",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1960,
+   "NAME": "Hurricane-1 ESTELLE",
+   "JOUR": "29 AUG- 9 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1960,
+   "NAME": "Hurricane-1 FERNANDA",
+   "JOUR": "3- 8 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1960,
+   "NAME": "Hurricane-1 HYACINTH",
+   "JOUR": "21-23 OCT",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1961,
+   "NAME": "Hurricane-1 IVA",
+   "JOUR": "9-12 JUN",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1961,
+   "NAME": "Tropical Storm JOANNE",
+   "JOUR": "10-12 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1961,
+   "NAME": "Tropical Storm KATHLEEN",
+   "JOUR": "14-16 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1961,
+   "NAME": "Tropical Storm LIZA",
+   "JOUR": "15-19 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1961,
+   "NAME": "Tropical Storm NAOMI",
+   "JOUR": "4- 5 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1961,
+   "NAME": "Tropical Storm ORLA",
+   "JOUR": "6-11 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1961,
+   "NAME": "Tropical Storm PAULINE",
+   "JOUR": "3- 4 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1961,
+   "NAME": "Tropical Storm REBECCA",
+   "JOUR": "3- 4 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1961,
+   "NAME": "Tropical Storm SIMONE",
+   "JOUR": "1- 3 NOV",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1961,
+   "NAME": "Hurricane-1 TARA",
+   "JOUR": "10-12 NOV",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1962,
+   "NAME": "Hurricane-1 VALERIE",
+   "JOUR": "24-26 JUN",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1962,
+   "NAME": "Tropical Storm WILLA",
+   "JOUR": "8-10 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1962,
+   "NAME": "Tropical Storm AVA",
+   "JOUR": "16-20 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1962,
+   "NAME": "Tropical Storm 4",
+   "JOUR": "20-22 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1962,
+   "NAME": "Tropical Storm 5",
+   "JOUR": "29 AUG- 2 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1962,
+   "NAME": "Tropical Storm BERNICE",
+   "JOUR": "2- 6 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1962,
+   "NAME": "Tropical Storm CLAUDIA",
+   "JOUR": "20-24 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1962,
+   "NAME": "Tropical Storm 8",
+   "JOUR": "26-30 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1962,
+   "NAME": "Hurricane-1 DOREEN",
+   "JOUR": "1- 5 OCT",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1963,
+   "NAME": "Hurricane-1 EMILY",
+   "JOUR": "29-30 JUN",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1963,
+   "NAME": "Hurricane-1 FLORENCE",
+   "JOUR": "14-17 JUL",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1963,
+   "NAME": "Hurricane-1 GLENDA",
+   "JOUR": "19-21 JUL",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1963,
+   "NAME": "Tropical Storm 1",
+   "JOUR": "2- 8 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1963,
+   "NAME": "Tropical Storm JEN-KATH",
+   "JOUR": "9-18 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1963,
+   "NAME": "Tropical Storm IRAH",
+   "JOUR": "12-21 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1963,
+   "NAME": "Tropical Storm LILLIAN",
+   "JOUR": "24-29 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1963,
+   "NAME": "Hurricane-1 MONA",
+   "JOUR": "17-19 OCT",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1964,
+   "NAME": "Tropical Storm NATALIE",
+   "JOUR": "6- 8 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1964,
+   "NAME": "Hurricane-1 ODESSA",
+   "JOUR": "15-19 JUL",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1964,
+   "NAME": "Tropical Storm PRUDENCE",
+   "JOUR": "20-24 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1964,
+   "NAME": "Tropical Storm ROSALYN",
+   "JOUR": "21-22 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1964,
+   "NAME": "Tropical Storm TILLIE",
+   "JOUR": "7- 9 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1965,
+   "NAME": "Tropical Storm VICTORIA",
+   "JOUR": "4- 7 JUN",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1965,
+   "NAME": "Tropical Storm WALLIE",
+   "JOUR": "17-18 JUN",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1965,
+   "NAME": "Tropical Storm AVA",
+   "JOUR": "29 JUN- 5 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1965,
+   "NAME": "Tropical Storm BERNICE",
+   "JOUR": "30 JUN- 8 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1965,
+   "NAME": "Tropical Storm CLAUDIA",
+   "JOUR": "7-11 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1965,
+   "NAME": "Tropical Storm DOREEN",
+   "JOUR": "21-31 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1965,
+   "NAME": "Hurricane-1 EMILY",
+   "JOUR": "30 AUG- 6 SEP",
+   "WIND": 80,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1965,
+   "NAME": "Tropical Storm FLORENCE",
+   "JOUR": "8-15 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1965,
+   "NAME": "Tropical Storm GLENDA",
+   "JOUR": "13-22 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1965,
+   "NAME": "Tropical Storm HAZEL",
+   "JOUR": "24-27 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1966,
+   "NAME": "Hurricane-1 ADELE",
+   "JOUR": "20-24 JUN",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1966,
+   "NAME": "Hurricane-1 BLANCA",
+   "JOUR": "3-12 AUG",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1966,
+   "NAME": "Hurricane-1 CONNIE",
+   "JOUR": "8-17 AUG",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1966,
+   "NAME": "Hurricane-1 DOLORES",
+   "JOUR": "16-25 AUG",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1966,
+   "NAME": "Hurricane-1 EILEEN",
+   "JOUR": "23-29 AUG",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1966,
+   "NAME": "Hurricane-1 FRANCESCA",
+   "JOUR": "6-16 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1966,
+   "NAME": "Tropical Storm GRETCHEN",
+   "JOUR": "8-11 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1966,
+   "NAME": "Hurricane-1 HELGA",
+   "JOUR": "9-17 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1966,
+   "NAME": "Tropical Storm IONE",
+   "JOUR": "11-13 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1966,
+   "NAME": "Tropical Storm JOYCE",
+   "JOUR": "15-20 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1966,
+   "NAME": "Tropical Storm KIRSTEN",
+   "JOUR": "26-29 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1966,
+   "NAME": "Tropical Storm LORRAINE",
+   "JOUR": "4- 5 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1966,
+   "NAME": "Tropical Storm MAGGIE",
+   "JOUR": "16-19 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Tropical Storm AGATHA",
+   "JOUR": "7-10 JUN",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Tropical Storm BRIDGET",
+   "JOUR": "16-16 JUN",
+   "WIND": 40,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Hurricane-1 CARLOTTA",
+   "JOUR": "23-26 JUN",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Tropical Storm DENISE",
+   "JOUR": "6-18 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Tropical Storm ELEANOR",
+   "JOUR": "13-22 JUL",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Tropical Storm FRANCENE",
+   "JOUR": "24-27 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Tropical Storm GEORGETTE",
+   "JOUR": "25-30 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Tropical Storm ILSA",
+   "JOUR": "12-18 AUG",
+   "WIND": 60,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Hurricane-1 JEWEL",
+   "JOUR": "18-22 AUG",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Hurricane-1 KATRINA",
+   "JOUR": "30 AUG- 3 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Hurricane-1 LILY",
+   "JOUR": "5-11 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Hurricane-4 SARAH",
+   "JOUR": "9-22 SEP",
+   "WIND": 130,
+   "PRESSURE": "933",
+   "CATEGORIE": "4"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Tropical Storm MONICA",
+   "JOUR": "13-20 SEP",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Tropical Storm NANETTE",
+   "JOUR": "13-21 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Hurricane-3 OLIVIA",
+   "JOUR": "6-15 OCT",
+   "WIND": 110,
+   "PRESSURE": "0",
+   "CATEGORIE": "3"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Hurricane-1 PRISCILLA",
+   "JOUR": "14-20 OCT",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1967,
+   "NAME": "Tropical Storm RAMONA",
+   "JOUR": "21 OCT- 3 NOV",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Tropical Storm ANNETTE",
+   "JOUR": "20-22 JUN",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Tropical Storm BONNY",
+   "JOUR": "4- 9 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Tropical Storm CELESTE",
+   "JOUR": "15-21 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Tropical Storm DIANA",
+   "JOUR": "21-26 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Tropical Storm ESTELLE",
+   "JOUR": "23-31 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Hurricane-1 FERNANDA",
+   "JOUR": "5-15 AUG",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Tropical Storm GWEN",
+   "JOUR": "6- 9 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Tropical Storm HYACINTH",
+   "JOUR": "17-21 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Tropical Storm IVA",
+   "JOUR": "21-26 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Hurricane-1 JOANNE",
+   "JOUR": "21-28 AUG",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Tropical Storm KATHLEEN",
+   "JOUR": "24 AUG- 3 SEP",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Hurricane-1 LIZA",
+   "JOUR": "28 AUG- 6 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Tropical Storm MADELINE",
+   "JOUR": "29-30 AUG",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Hurricane-1 NAOMI",
+   "JOUR": "9-13 SEP",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Tropical Storm ORLA",
+   "JOUR": "22-30 SEP",
+   "WIND": 50,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Hurricane-1 PAULINE",
+   "JOUR": "26 SEP- 3 OCT",
+   "WIND": 75,
+   "PRESSURE": "1008",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Hurricane-1 REBECCA",
+   "JOUR": "6-11 OCT",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Tropical Storm SIMONE",
+   "JOUR": "18-19 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1968,
+   "NAME": "Tropical Storm TARA",
+   "JOUR": "20-28 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1969,
+   "NAME": "Tropical Storm AVA",
+   "JOUR": "1- 8 JUL",
+   "WIND": 45,
+   "PRESSURE": "999",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1969,
+   "NAME": "Hurricane-1 BERNICE",
+   "JOUR": "9-17 JUL",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1969,
+   "NAME": "Tropical Storm CLAUDIA",
+   "JOUR": "22-23 JUL",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1969,
+   "NAME": "Hurricane-1 DOREEN",
+   "JOUR": "4- 9 AUG",
+   "WIND": 75,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1969,
+   "NAME": "Tropical Storm EMILY",
+   "JOUR": "23-24 AUG",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1969,
+   "NAME": "Tropical Storm FLORENCE",
+   "JOUR": "2- 7 SEP",
+   "WIND": 60,
+   "PRESSURE": "997",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1969,
+   "NAME": "Hurricane-1 GLENDA",
+   "JOUR": "8-12 SEP",
+   "WIND": 65,
+   "PRESSURE": "993",
+   "CATEGORIE": "1"
+ },
+ {
+   "Date": 1969,
+   "NAME": "Tropical Storm HEATHER",
+   "JOUR": "19-25 SEP",
+   "WIND": 55,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1969,
+   "NAME": "Tropical Storm IRAH",
+   "JOUR": "30 SEP- 3 OCT",
+   "WIND": 45,
+   "PRESSURE": "0",
+   "CATEGORIE": "-"
+ },
+ {
+   "Date": 1969,
+   "NAME": "Hurricane-1 JENNIFER",
+   "JOUR": "9-12 OCT",
+   "WIND": 65,
+   "PRESSURE": "0",
+   "CATEGORIE": "1"
+ }
+]
